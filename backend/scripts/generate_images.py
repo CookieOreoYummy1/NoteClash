@@ -130,23 +130,23 @@ def generate_scale():
                     root = note.Note(f"{n}{octave}")
 
                     if scale_type == "Major_scale":
-                        sc = scale.MajorScale(n)
+                        sc = scale.MajorScale(root.pitch)
                     elif scale_type == "Natural_minor":
-                        sc = scale.MinorScale(n)
+                        sc = scale.MinorScale(root.pitch)
                     elif scale_type == "Melodic_minor":
-                        sc = scale.MelodicMinorScale(n)
+                        sc = scale.MelodicMinorScale(root.pitch)
                     elif scale_type == "Harmonic_minor":
-                        sc = scale.HarmonicMinorScale(n)
+                        sc = scale.HarmonicMinorScale(root.pitch)
                     elif scale_type == "Mixolydian":
-                        sc = scale.MixolydianScale(n)
+                        sc = scale.MixolydianScale(root.pitch)
                     elif scale_type == "Lydian":
-                        sc = scale.LydianScale(n)
+                        sc = scale.LydianScale(root.pitch)
                     elif scale_type == "Dorian":
-                        sc = scale.DorianScale(n)
+                        sc = scale.DorianScale(root.pitch)
                     elif scale_type == "Phrygian":
-                        sc = scale.PhrygianScale(n)
+                        sc = scale.PhrygianScale(root.pitch)
                     else:  # Locrian
-                        sc = scale.LocrianScale(n)
+                        sc = scale.LocrianScale(root.pitch)
 
                     scale_pitches = sc.getPitches(root.pitch, root.pitch.transpose(12))
                     for p in scale_pitches:
@@ -160,3 +160,5 @@ def generate_scale():
 
 
 generate_scale()
+generate_chord()
+generate_note()

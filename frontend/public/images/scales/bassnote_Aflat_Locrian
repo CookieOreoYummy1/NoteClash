@@ -11,14 +11,14 @@ color = #(define-music-function (parser location color) (string?) #{
 \header { } 
 \score  { 
  \new Voice { \new Voice { \clef "bass" 
+                aes 4  
+                beses 4  
+                ces' 4  
+                des' 4  
+                eeses' 4  
+                fes' 4  
+                ges' 4  
                 aes' 4  
-                beses' 4  
-                ces'' 4  
-                des'' 4  
-                eeses'' 4  
-                fes'' 4  
-                ges'' 4  
-                aes'' 4  
                  } 
                
  

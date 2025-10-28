@@ -1,0 +1,202 @@
+[
+  {
+    "user": "Bach",
+    "sessions": 500,
+    "total_accuracy": 47500,
+    "accuracy": 95,
+    "total_time": 15000,
+    "time_taken": 30,
+    "total_rr": 30645,
+    "difficulty": "maestro"
+  },
+  {
+    "user": "Mozart",
+    "sessions": 450,
+    "total_accuracy": 42750,
+    "accuracy": 95,
+    "total_time": 13500,
+    "time_taken": 30,
+    "total_rr": 30645,
+    "difficulty": "maestro"
+  },
+  {
+    "user": "Beethoven",
+    "sessions": 400,
+    "total_accuracy": 37600,
+    "accuracy": 94,
+    "total_time": 12000,
+    "time_taken": 30,
+    "total_rr": 30322,
+    "difficulty": "maestro"
+  },
+  {
+    "user": "Chopin",
+    "sessions": 380,
+    "total_accuracy": 35150,
+    "accuracy": 92.5,
+    "total_time": 11400,
+    "time_taken": 30,
+    "total_rr": 29838,
+    "difficulty": "maestro"
+  },
+  {
+    "user": "Liszt",
+    "sessions": 360,
+    "total_accuracy": 32400,
+    "accuracy": 90,
+    "total_time": 10800,
+    "time_taken": 30,
+    "total_rr": 29032,
+    "difficulty": "maestro"
+  },
+  {
+    "user": "Debussy",
+    "sessions": 300,
+    "total_accuracy": 25500,
+    "accuracy": 85,
+    "total_time": 10500,
+    "time_taken": 35,
+    "total_rr": 23611,
+    "difficulty": "maestro"
+  },
+  {
+    "user": "Rachmaninoff",
+    "sessions": 280,
+    "total_accuracy": 23520,
+    "accuracy": 84,
+    "total_time": 9800,
+    "time_taken": 35,
+    "total_rr": 23333,
+    "difficulty": "maestro"
+  },
+  {
+    "user": "Tchaikovsky",
+    "sessions": 250,
+    "total_accuracy": 20000,
+    "accuracy": 80,
+    "total_time": 10000,
+    "time_taken": 40,
+    "total_rr": 19512,
+    "difficulty": "gold"
+  },
+  {
+    "user": "Brahms",
+    "sessions": 240,
+    "total_accuracy": 18720,
+    "accuracy": 78,
+    "total_time": 9600,
+    "time_taken": 40,
+    "total_rr": 19024,
+    "difficulty": "gold"
+  },
+  {
+    "user": "Vivaldi",
+    "sessions": 220,
+    "total_accuracy": 15400,
+    "accuracy": 70,
+    "total_time": 8800,
+    "time_taken": 40,
+    "total_rr": 17073,
+    "difficulty": "gold"
+  },
+  {
+    "user": "Haydn",
+    "sessions": 200,
+    "total_accuracy": 13000,
+    "accuracy": 65,
+    "total_time": 8000,
+    "time_taken": 40,
+    "total_rr": 15853,
+    "difficulty": "gold"
+  },
+  {
+    "user": "Schubert",
+    "sessions": 180,
+    "total_accuracy": 10800,
+    "accuracy": 60,
+    "total_time": 7200,
+    "time_taken": 40,
+    "total_rr": 14634,
+    "difficulty": "gold"
+  },
+  {
+    "user": "Handel",
+    "sessions": 160,
+    "total_accuracy": 8640,
+    "accuracy": 54,
+    "total_time": 6400,
+    "time_taken": 40,
+    "total_rr": 13171,
+    "difficulty": "gold"
+  },
+  {
+    "user": "Schumann",
+    "sessions": 140,
+    "total_accuracy": 6440,
+    "accuracy": 46,
+    "total_time": 5600,
+    "time_taken": 40,
+    "total_rr": 11219,
+    "difficulty": "silver"
+  },
+  {
+    "user": "Mendelssohn",
+    "sessions": 120,
+    "total_accuracy": 5040,
+    "accuracy": 42,
+    "total_time": 4800,
+    "time_taken": 40,
+    "total_rr": 10244,
+    "difficulty": "silver"
+  },
+  {
+    "user": "Grieg",
+    "sessions": 100,
+    "total_accuracy": 3800,
+    "accuracy": 38,
+    "total_time": 4000,
+    "time_taken": 40,
+    "total_rr": 9268,
+    "difficulty": "silver"
+  },
+  {
+    "user": "Dvorak",
+    "sessions": 80,
+    "total_accuracy": 2720,
+    "accuracy": 34,
+    "total_time": 3200,
+    "time_taken": 40,
+    "total_rr": 8293,
+    "difficulty": "silver"
+  },
+  {
+    "user": "Paganini",
+    "sessions": 70,
+    "total_accuracy": 2100,
+    "accuracy": 30,
+    "total_time": 2800,
+    "time_taken": 40,
+    "total_rr": 7317,
+    "difficulty": "silver"
+  },
+  {
+    "user": "Sibelius",
+    "sessions": 60,
+    "total_accuracy": 1560,
+    "accuracy": 26,
+    "total_time": 2400,
+    "time_taken": 40,
+    "total_rr": 6341,
+    "difficulty": "silver"
+  },
+  {
+    "user": "Saint-Saens",
+    "sessions": 50,
+    "total_accuracy": 1150,
+    "accuracy": 23,
+    "total_time": 2000,
+    "time_taken": 40,
+    "total_rr": 5610,
+    "difficulty": "silver"
+  }
+]
