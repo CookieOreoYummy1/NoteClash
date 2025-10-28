@@ -1,0 +1,37 @@
+\version "2.24" 
+\include "lilypond-book-preamble.ly"
+    
+color = #(define-music-function (parser location color) (string?) #{
+        \once \override NoteHead.color = #(x11-color color)
+        \once \override Stem.color = #(x11-color color)
+        \once \override Rest.color = #(x11-color color)
+        \once \override Beam.color = #(x11-color color)
+     #})
+    
+\header { } 
+\score  { 
+ \new Voice { \new Voice { \clef "treble" 
+                ges' 4  
+                aeses' 4  
+                beses' 4  
+                ces'' 4  
+                deses'' 4  
+                eeses'' 4  
+                fes'' 4  
+                ges'' 4  
+                 } 
+               
+ 
+           } 
+         
+ 
+  } 
+ 
+\paper { }
+\layout {
+  \context {
+    \RemoveEmptyStaves
+    \override VerticalAxisGroup.remove-first = ##t
+  }
+ }
+ 
