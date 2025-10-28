@@ -11,8 +11,6 @@ def load_data(filename):
     with open(filepath, 'r', encoding="utf-8") as f:
         return json.load(f)
 
-
-# Define routes for different question types
 @app.route("/note_reading/<difficulty>")
 def note_reading(difficulty):
     questions = load_data('note_reading.json')

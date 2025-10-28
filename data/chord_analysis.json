@@ -1,0 +1,4903 @@
+[
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Aflat_Major.png",
+        "answer": "Ab Major",
+        "clef": "treble",
+        "difficulty": "bronze",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_A_Major.png",
+        "answer": "A Major",
+        "clef": "treble",
+        "difficulty": "bronze",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Bflat_Major.png",
+        "answer": "Bb Major",
+        "clef": "treble",
+        "difficulty": "bronze",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_B_Major.png",
+        "answer": "B Major",
+        "clef": "treble",
+        "difficulty": "bronze",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_C_Major.png",
+        "answer": "C Major",
+        "clef": "treble",
+        "difficulty": "bronze",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Dflat_Major.png",
+        "answer": "Db Major",
+        "clef": "treble",
+        "difficulty": "bronze",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_D_Major.png",
+        "answer": "D Major",
+        "clef": "treble",
+        "difficulty": "bronze",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Eflat_Major.png",
+        "answer": "Eb Major",
+        "clef": "treble",
+        "difficulty": "bronze",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_E_Major.png",
+        "answer": "E Major",
+        "clef": "treble",
+        "difficulty": "bronze",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_F_Major.png",
+        "answer": "F Major",
+        "clef": "treble",
+        "difficulty": "bronze",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Fsharp_Major.png",
+        "answer": "F# Major",
+        "clef": "treble",
+        "difficulty": "bronze",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Gflat_Major.png",
+        "answer": "Gb Major",
+        "clef": "treble",
+        "difficulty": "bronze",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_G_Major.png",
+        "answer": "G Major",
+        "clef": "treble",
+        "difficulty": "bronze",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Aflat_Minor.png",
+        "answer": "Ab Minor",
+        "clef": "treble",
+        "difficulty": "silver",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_A_Minor.png",
+        "answer": "A Minor",
+        "clef": "treble",
+        "difficulty": "silver",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Bflat_Minor.png",
+        "answer": "Bb Minor",
+        "clef": "treble",
+        "difficulty": "silver",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_B_Minor.png",
+        "answer": "B Minor",
+        "clef": "treble",
+        "difficulty": "silver",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_C_Minor.png",
+        "answer": "C Minor",
+        "clef": "treble",
+        "difficulty": "silver",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Dflat_Minor.png",
+        "answer": "Db Minor",
+        "clef": "treble",
+        "difficulty": "silver",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_D_Minor.png",
+        "answer": "D Minor",
+        "clef": "treble",
+        "difficulty": "silver",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Eflat_Minor.png",
+        "answer": "Eb Minor",
+        "clef": "treble",
+        "difficulty": "silver",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_E_Minor.png",
+        "answer": "E Minor",
+        "clef": "treble",
+        "difficulty": "silver",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_F_Minor.png",
+        "answer": "F Minor",
+        "clef": "treble",
+        "difficulty": "silver",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Fsharp_Minor.png",
+        "answer": "F# Minor",
+        "clef": "treble",
+        "difficulty": "silver",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Gflat_Minor.png",
+        "answer": "Gb Minor",
+        "clef": "treble",
+        "difficulty": "silver",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_G_Minor.png",
+        "answer": "G Minor",
+        "clef": "treble",
+        "difficulty": "silver",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Aflat_Minor.png",
+        "answer": "Ab Minor",
+        "clef": "bass",
+        "difficulty": "silver",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_A_Minor.png",
+        "answer": "A Minor",
+        "clef": "bass",
+        "difficulty": "silver",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Bflat_Minor.png",
+        "answer": "Bb Minor",
+        "clef": "bass",
+        "difficulty": "silver",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_B_Minor.png",
+        "answer": "B Minor",
+        "clef": "bass",
+        "difficulty": "silver",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_C_Minor.png",
+        "answer": "C Minor",
+        "clef": "bass",
+        "difficulty": "silver",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Dflat_Minor.png",
+        "answer": "Db Minor",
+        "clef": "bass",
+        "difficulty": "silver",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_D_Minor.png",
+        "answer": "D Minor",
+        "clef": "bass",
+        "difficulty": "silver",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Eflat_Minor.png",
+        "answer": "Eb Minor",
+        "clef": "bass",
+        "difficulty": "silver",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_E_Minor.png",
+        "answer": "E Minor",
+        "clef": "bass",
+        "difficulty": "silver",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_F_Minor.png",
+        "answer": "F Minor",
+        "clef": "bass",
+        "difficulty": "silver",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Fsharp_Minor.png",
+        "answer": "F# Minor",
+        "clef": "bass",
+        "difficulty": "silver",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Gflat_Minor.png",
+        "answer": "Gb Minor",
+        "clef": "bass",
+        "difficulty": "silver",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_G_Minor.png",
+        "answer": "G Minor",
+        "clef": "bass",
+        "difficulty": "silver",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Aflat_Augmented.png",
+        "answer": "Ab Augmented",
+        "clef": "treble",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_A_Augmented.png",
+        "answer": "A Augmented",
+        "clef": "treble",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Bflat_Augmented.png",
+        "answer": "Bb Augmented",
+        "clef": "treble",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_B_Augmented.png",
+        "answer": "B Augmented",
+        "clef": "treble",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_C_Augmented.png",
+        "answer": "C Augmented",
+        "clef": "treble",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Dflat_Augmented.png",
+        "answer": "Db Augmented",
+        "clef": "treble",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_D_Augmented.png",
+        "answer": "D Augmented",
+        "clef": "treble",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Eflat_Augmented.png",
+        "answer": "Eb Augmented",
+        "clef": "treble",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_E_Augmented.png",
+        "answer": "E Augmented",
+        "clef": "treble",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_F_Augmented.png",
+        "answer": "F Augmented",
+        "clef": "treble",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Fsharp_Augmented.png",
+        "answer": "F# Augmented",
+        "clef": "treble",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Gflat_Augmented.png",
+        "answer": "Gb Augmented",
+        "clef": "treble",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_G_Augmented.png",
+        "answer": "G Augmented",
+        "clef": "treble",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Aflat_Diminished.png",
+        "answer": "Ab Diminished",
+        "clef": "treble",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_A_Diminished.png",
+        "answer": "A Diminished",
+        "clef": "treble",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Bflat_Diminished.png",
+        "answer": "Bb Diminished",
+        "clef": "treble",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_B_Diminished.png",
+        "answer": "B Diminished",
+        "clef": "treble",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_C_Diminished.png",
+        "answer": "C Diminished",
+        "clef": "treble",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Dflat_Diminished.png",
+        "answer": "Db Diminished",
+        "clef": "treble",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_D_Diminished.png",
+        "answer": "D Diminished",
+        "clef": "treble",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Eflat_Diminished.png",
+        "answer": "Eb Diminished",
+        "clef": "treble",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_E_Diminished.png",
+        "answer": "E Diminished",
+        "clef": "treble",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_F_Diminished.png",
+        "answer": "F Diminished",
+        "clef": "treble",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Fsharp_Diminished.png",
+        "answer": "F# Diminished",
+        "clef": "treble",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Gflat_Diminished.png",
+        "answer": "Gb Diminished",
+        "clef": "treble",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_G_Diminished.png",
+        "answer": "G Diminished",
+        "clef": "treble",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Aflat_Augmented.png",
+        "answer": "Ab Augmented",
+        "clef": "bass",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_A_Augmented.png",
+        "answer": "A Augmented",
+        "clef": "bass",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Bflat_Augmented.png",
+        "answer": "Bb Augmented",
+        "clef": "bass",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_B_Augmented.png",
+        "answer": "B Augmented",
+        "clef": "bass",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_C_Augmented.png",
+        "answer": "C Augmented",
+        "clef": "bass",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Dflat_Augmented.png",
+        "answer": "Db Augmented",
+        "clef": "bass",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_D_Augmented.png",
+        "answer": "D Augmented",
+        "clef": "bass",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Eflat_Augmented.png",
+        "answer": "Eb Augmented",
+        "clef": "bass",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_E_Augmented.png",
+        "answer": "E Augmented",
+        "clef": "bass",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_F_Augmented.png",
+        "answer": "F Augmented",
+        "clef": "bass",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Fsharp_Augmented.png",
+        "answer": "F# Augmented",
+        "clef": "bass",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Gflat_Augmented.png",
+        "answer": "Gb Augmented",
+        "clef": "bass",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_G_Augmented.png",
+        "answer": "G Augmented",
+        "clef": "bass",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Aflat_Diminished.png",
+        "answer": "Ab Diminished",
+        "clef": "bass",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_A_Diminished.png",
+        "answer": "A Diminished",
+        "clef": "bass",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Bflat_Diminished.png",
+        "answer": "Bb Diminished",
+        "clef": "bass",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_B_Diminished.png",
+        "answer": "B Diminished",
+        "clef": "bass",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_C_Diminished.png",
+        "answer": "C Diminished",
+        "clef": "bass",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Dflat_Diminished.png",
+        "answer": "Db Diminished",
+        "clef": "bass",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_D_Diminished.png",
+        "answer": "D Diminished",
+        "clef": "bass",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Eflat_Diminished.png",
+        "answer": "Eb Diminished",
+        "clef": "bass",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_E_Diminished.png",
+        "answer": "E Diminished",
+        "clef": "bass",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_F_Diminished.png",
+        "answer": "F Diminished",
+        "clef": "bass",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Fsharp_Diminished.png",
+        "answer": "F# Diminished",
+        "clef": "bass",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Gflat_Diminished.png",
+        "answer": "Gb Diminished",
+        "clef": "bass",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_G_Diminished.png",
+        "answer": "G Diminished",
+        "clef": "bass",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Aflat_Augmented.png",
+        "answer": "Ab Augmented",
+        "clef": "alto",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_A_Augmented.png",
+        "answer": "A Augmented",
+        "clef": "alto",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Bflat_Augmented.png",
+        "answer": "Bb Augmented",
+        "clef": "alto",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_B_Augmented.png",
+        "answer": "B Augmented",
+        "clef": "alto",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_C_Augmented.png",
+        "answer": "C Augmented",
+        "clef": "alto",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Dflat_Augmented.png",
+        "answer": "Db Augmented",
+        "clef": "alto",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_D_Augmented.png",
+        "answer": "D Augmented",
+        "clef": "alto",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Eflat_Augmented.png",
+        "answer": "Eb Augmented",
+        "clef": "alto",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_E_Augmented.png",
+        "answer": "E Augmented",
+        "clef": "alto",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_F_Augmented.png",
+        "answer": "F Augmented",
+        "clef": "alto",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Fsharp_Augmented.png",
+        "answer": "F# Augmented",
+        "clef": "alto",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Gflat_Augmented.png",
+        "answer": "Gb Augmented",
+        "clef": "alto",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_G_Augmented.png",
+        "answer": "G Augmented",
+        "clef": "alto",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Aflat_Diminished.png",
+        "answer": "Ab Diminished",
+        "clef": "alto",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_A_Diminished.png",
+        "answer": "A Diminished",
+        "clef": "alto",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Bflat_Diminished.png",
+        "answer": "Bb Diminished",
+        "clef": "alto",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_B_Diminished.png",
+        "answer": "B Diminished",
+        "clef": "alto",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_C_Diminished.png",
+        "answer": "C Diminished",
+        "clef": "alto",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Dflat_Diminished.png",
+        "answer": "Db Diminished",
+        "clef": "alto",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_D_Diminished.png",
+        "answer": "D Diminished",
+        "clef": "alto",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Eflat_Diminished.png",
+        "answer": "Eb Diminished",
+        "clef": "alto",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_E_Diminished.png",
+        "answer": "E Diminished",
+        "clef": "alto",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_F_Diminished.png",
+        "answer": "F Diminished",
+        "clef": "alto",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Fsharp_Diminished.png",
+        "answer": "F# Diminished",
+        "clef": "alto",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Gflat_Diminished.png",
+        "answer": "Gb Diminished",
+        "clef": "alto",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_G_Diminished.png",
+        "answer": "G Diminished",
+        "clef": "alto",
+        "difficulty": "gold",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Aflat_Dominant7.png",
+        "answer": "Ab Dominant7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_A_Dominant7.png",
+        "answer": "A Dominant7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Bflat_Dominant7.png",
+        "answer": "Bb Dominant7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_B_Dominant7.png",
+        "answer": "B Dominant7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_C_Dominant7.png",
+        "answer": "C Dominant7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Dflat_Dominant7.png",
+        "answer": "Db Dominant7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_D_Dominant7.png",
+        "answer": "D Dominant7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Eflat_Dominant7.png",
+        "answer": "Eb Dominant7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_E_Dominant7.png",
+        "answer": "E Dominant7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_F_Dominant7.png",
+        "answer": "F Dominant7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Fsharp_Dominant7.png",
+        "answer": "F# Dominant7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Gflat_Dominant7.png",
+        "answer": "Gb Dominant7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_G_Dominant7.png",
+        "answer": "G Dominant7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Aflat_Minor7.png",
+        "answer": "Ab Minor7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_A_Minor7.png",
+        "answer": "A Minor7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Bflat_Minor7.png",
+        "answer": "Bb Minor7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_B_Minor7.png",
+        "answer": "B Minor7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_C_Minor7.png",
+        "answer": "C Minor7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Dflat_Minor7.png",
+        "answer": "Db Minor7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_D_Minor7.png",
+        "answer": "D Minor7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Eflat_Minor7.png",
+        "answer": "Eb Minor7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_E_Minor7.png",
+        "answer": "E Minor7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_F_Minor7.png",
+        "answer": "F Minor7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Fsharp_Minor7.png",
+        "answer": "F# Minor7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Gflat_Minor7.png",
+        "answer": "Gb Minor7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_G_Minor7.png",
+        "answer": "G Minor7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Aflat_Major7.png",
+        "answer": "Ab Major7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_A_Major7.png",
+        "answer": "A Major7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Bflat_Major7.png",
+        "answer": "Bb Major7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_B_Major7.png",
+        "answer": "B Major7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_C_Major7.png",
+        "answer": "C Major7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Dflat_Major7.png",
+        "answer": "Db Major7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_D_Major7.png",
+        "answer": "D Major7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Eflat_Major7.png",
+        "answer": "Eb Major7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_E_Major7.png",
+        "answer": "E Major7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_F_Major7.png",
+        "answer": "F Major7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Fsharp_Major7.png",
+        "answer": "F# Major7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Gflat_Major7.png",
+        "answer": "Gb Major7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_G_Major7.png",
+        "answer": "G Major7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Aflat_Dim7.png",
+        "answer": "Ab Dim7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_A_Dim7.png",
+        "answer": "A Dim7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Bflat_Dim7.png",
+        "answer": "Bb Dim7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_B_Dim7.png",
+        "answer": "B Dim7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_C_Dim7.png",
+        "answer": "C Dim7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Dflat_Dim7.png",
+        "answer": "Db Dim7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_D_Dim7.png",
+        "answer": "D Dim7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Eflat_Dim7.png",
+        "answer": "Eb Dim7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_E_Dim7.png",
+        "answer": "E Dim7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_F_Dim7.png",
+        "answer": "F Dim7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Fsharp_Dim7.png",
+        "answer": "F# Dim7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Gflat_Dim7.png",
+        "answer": "Gb Dim7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_G_Dim7.png",
+        "answer": "G Dim7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Aflat_HalfDim7.png",
+        "answer": "Ab HalfDim7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_A_HalfDim7.png",
+        "answer": "A HalfDim7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Bflat_HalfDim7.png",
+        "answer": "Bb HalfDim7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_B_HalfDim7.png",
+        "answer": "B HalfDim7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_C_HalfDim7.png",
+        "answer": "C HalfDim7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Dflat_HalfDim7.png",
+        "answer": "Db HalfDim7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_D_HalfDim7.png",
+        "answer": "D HalfDim7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Eflat_HalfDim7.png",
+        "answer": "Eb HalfDim7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_E_HalfDim7.png",
+        "answer": "E HalfDim7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_F_HalfDim7.png",
+        "answer": "F HalfDim7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Fsharp_HalfDim7.png",
+        "answer": "F# HalfDim7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_Gflat_HalfDim7.png",
+        "answer": "Gb HalfDim7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/treblenote_G_HalfDim7.png",
+        "answer": "G HalfDim7",
+        "clef": "treble",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Aflat_Dominant7.png",
+        "answer": "Ab Dominant7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_A_Dominant7.png",
+        "answer": "A Dominant7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Bflat_Dominant7.png",
+        "answer": "Bb Dominant7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_B_Dominant7.png",
+        "answer": "B Dominant7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_C_Dominant7.png",
+        "answer": "C Dominant7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Dflat_Dominant7.png",
+        "answer": "Db Dominant7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_D_Dominant7.png",
+        "answer": "D Dominant7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Eflat_Dominant7.png",
+        "answer": "Eb Dominant7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_E_Dominant7.png",
+        "answer": "E Dominant7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_F_Dominant7.png",
+        "answer": "F Dominant7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Fsharp_Dominant7.png",
+        "answer": "F# Dominant7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Gflat_Dominant7.png",
+        "answer": "Gb Dominant7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_G_Dominant7.png",
+        "answer": "G Dominant7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Aflat_Minor7.png",
+        "answer": "Ab Minor7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_A_Minor7.png",
+        "answer": "A Minor7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Bflat_Minor7.png",
+        "answer": "Bb Minor7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_B_Minor7.png",
+        "answer": "B Minor7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_C_Minor7.png",
+        "answer": "C Minor7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Dflat_Minor7.png",
+        "answer": "Db Minor7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_D_Minor7.png",
+        "answer": "D Minor7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Eflat_Minor7.png",
+        "answer": "Eb Minor7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_E_Minor7.png",
+        "answer": "E Minor7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_F_Minor7.png",
+        "answer": "F Minor7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Fsharp_Minor7.png",
+        "answer": "F# Minor7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Gflat_Minor7.png",
+        "answer": "Gb Minor7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_G_Minor7.png",
+        "answer": "G Minor7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Aflat_Major7.png",
+        "answer": "Ab Major7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_A_Major7.png",
+        "answer": "A Major7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Bflat_Major7.png",
+        "answer": "Bb Major7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_B_Major7.png",
+        "answer": "B Major7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_C_Major7.png",
+        "answer": "C Major7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Dflat_Major7.png",
+        "answer": "Db Major7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_D_Major7.png",
+        "answer": "D Major7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Eflat_Major7.png",
+        "answer": "Eb Major7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_E_Major7.png",
+        "answer": "E Major7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_F_Major7.png",
+        "answer": "F Major7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Fsharp_Major7.png",
+        "answer": "F# Major7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Gflat_Major7.png",
+        "answer": "Gb Major7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_G_Major7.png",
+        "answer": "G Major7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Aflat_Dim7.png",
+        "answer": "Ab Dim7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_A_Dim7.png",
+        "answer": "A Dim7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Bflat_Dim7.png",
+        "answer": "Bb Dim7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_B_Dim7.png",
+        "answer": "B Dim7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_C_Dim7.png",
+        "answer": "C Dim7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Dflat_Dim7.png",
+        "answer": "Db Dim7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_D_Dim7.png",
+        "answer": "D Dim7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Eflat_Dim7.png",
+        "answer": "Eb Dim7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_E_Dim7.png",
+        "answer": "E Dim7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_F_Dim7.png",
+        "answer": "F Dim7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Fsharp_Dim7.png",
+        "answer": "F# Dim7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Gflat_Dim7.png",
+        "answer": "Gb Dim7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_G_Dim7.png",
+        "answer": "G Dim7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Aflat_HalfDim7.png",
+        "answer": "Ab HalfDim7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_A_HalfDim7.png",
+        "answer": "A HalfDim7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Bflat_HalfDim7.png",
+        "answer": "Bb HalfDim7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_B_HalfDim7.png",
+        "answer": "B HalfDim7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_C_HalfDim7.png",
+        "answer": "C HalfDim7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Dflat_HalfDim7.png",
+        "answer": "Db HalfDim7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_D_HalfDim7.png",
+        "answer": "D HalfDim7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Eflat_HalfDim7.png",
+        "answer": "Eb HalfDim7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_E_HalfDim7.png",
+        "answer": "E HalfDim7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_F_HalfDim7.png",
+        "answer": "F HalfDim7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Fsharp_HalfDim7.png",
+        "answer": "F# HalfDim7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_Gflat_HalfDim7.png",
+        "answer": "Gb HalfDim7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/bassnote_G_HalfDim7.png",
+        "answer": "G HalfDim7",
+        "clef": "bass",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Aflat_Dominant7.png",
+        "answer": "Ab Dominant7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_A_Dominant7.png",
+        "answer": "A Dominant7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Bflat_Dominant7.png",
+        "answer": "Bb Dominant7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_B_Dominant7.png",
+        "answer": "B Dominant7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_C_Dominant7.png",
+        "answer": "C Dominant7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Dflat_Dominant7.png",
+        "answer": "Db Dominant7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_D_Dominant7.png",
+        "answer": "D Dominant7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Eflat_Dominant7.png",
+        "answer": "Eb Dominant7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_E_Dominant7.png",
+        "answer": "E Dominant7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_F_Dominant7.png",
+        "answer": "F Dominant7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Fsharp_Dominant7.png",
+        "answer": "F# Dominant7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Gflat_Dominant7.png",
+        "answer": "Gb Dominant7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_G_Dominant7.png",
+        "answer": "G Dominant7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Aflat_Minor7.png",
+        "answer": "Ab Minor7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_A_Minor7.png",
+        "answer": "A Minor7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Bflat_Minor7.png",
+        "answer": "Bb Minor7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_B_Minor7.png",
+        "answer": "B Minor7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_C_Minor7.png",
+        "answer": "C Minor7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Dflat_Minor7.png",
+        "answer": "Db Minor7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_D_Minor7.png",
+        "answer": "D Minor7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Eflat_Minor7.png",
+        "answer": "Eb Minor7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_E_Minor7.png",
+        "answer": "E Minor7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_F_Minor7.png",
+        "answer": "F Minor7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Fsharp_Minor7.png",
+        "answer": "F# Minor7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Gflat_Minor7.png",
+        "answer": "Gb Minor7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_G_Minor7.png",
+        "answer": "G Minor7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Aflat_Major7.png",
+        "answer": "Ab Major7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_A_Major7.png",
+        "answer": "A Major7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Bflat_Major7.png",
+        "answer": "Bb Major7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_B_Major7.png",
+        "answer": "B Major7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_C_Major7.png",
+        "answer": "C Major7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Dflat_Major7.png",
+        "answer": "Db Major7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_D_Major7.png",
+        "answer": "D Major7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Eflat_Major7.png",
+        "answer": "Eb Major7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_E_Major7.png",
+        "answer": "E Major7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_F_Major7.png",
+        "answer": "F Major7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Fsharp_Major7.png",
+        "answer": "F# Major7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Gflat_Major7.png",
+        "answer": "Gb Major7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_G_Major7.png",
+        "answer": "G Major7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Aflat_Dim7.png",
+        "answer": "Ab Dim7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_A_Dim7.png",
+        "answer": "A Dim7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Bflat_Dim7.png",
+        "answer": "Bb Dim7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_B_Dim7.png",
+        "answer": "B Dim7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_C_Dim7.png",
+        "answer": "C Dim7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Dflat_Dim7.png",
+        "answer": "Db Dim7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_D_Dim7.png",
+        "answer": "D Dim7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Eflat_Dim7.png",
+        "answer": "Eb Dim7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_E_Dim7.png",
+        "answer": "E Dim7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_F_Dim7.png",
+        "answer": "F Dim7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Fsharp_Dim7.png",
+        "answer": "F# Dim7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Gflat_Dim7.png",
+        "answer": "Gb Dim7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_G_Dim7.png",
+        "answer": "G Dim7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Aflat_HalfDim7.png",
+        "answer": "Ab HalfDim7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_A_HalfDim7.png",
+        "answer": "A HalfDim7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Bflat_HalfDim7.png",
+        "answer": "Bb HalfDim7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_B_HalfDim7.png",
+        "answer": "B HalfDim7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_C_HalfDim7.png",
+        "answer": "C HalfDim7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Dflat_HalfDim7.png",
+        "answer": "Db HalfDim7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_D_HalfDim7.png",
+        "answer": "D HalfDim7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Eflat_HalfDim7.png",
+        "answer": "Eb HalfDim7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_E_HalfDim7.png",
+        "answer": "E HalfDim7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_F_HalfDim7.png",
+        "answer": "F HalfDim7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Fsharp_HalfDim7.png",
+        "answer": "F# HalfDim7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_Gflat_HalfDim7.png",
+        "answer": "Gb HalfDim7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/altonote_G_HalfDim7.png",
+        "answer": "G HalfDim7",
+        "clef": "alto",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_Aflat_Dominant7.png",
+        "answer": "Ab Dominant7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_A_Dominant7.png",
+        "answer": "A Dominant7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_Bflat_Dominant7.png",
+        "answer": "Bb Dominant7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_B_Dominant7.png",
+        "answer": "B Dominant7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_C_Dominant7.png",
+        "answer": "C Dominant7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_Dflat_Dominant7.png",
+        "answer": "Db Dominant7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_D_Dominant7.png",
+        "answer": "D Dominant7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_Eflat_Dominant7.png",
+        "answer": "Eb Dominant7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_E_Dominant7.png",
+        "answer": "E Dominant7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_F_Dominant7.png",
+        "answer": "F Dominant7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_Fsharp_Dominant7.png",
+        "answer": "F# Dominant7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_Gflat_Dominant7.png",
+        "answer": "Gb Dominant7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_G_Dominant7.png",
+        "answer": "G Dominant7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_Aflat_Minor7.png",
+        "answer": "Ab Minor7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_A_Minor7.png",
+        "answer": "A Minor7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_Bflat_Minor7.png",
+        "answer": "Bb Minor7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_B_Minor7.png",
+        "answer": "B Minor7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_C_Minor7.png",
+        "answer": "C Minor7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_Dflat_Minor7.png",
+        "answer": "Db Minor7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_D_Minor7.png",
+        "answer": "D Minor7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_Eflat_Minor7.png",
+        "answer": "Eb Minor7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_E_Minor7.png",
+        "answer": "E Minor7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_F_Minor7.png",
+        "answer": "F Minor7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_Fsharp_Minor7.png",
+        "answer": "F# Minor7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_Gflat_Minor7.png",
+        "answer": "Gb Minor7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_G_Minor7.png",
+        "answer": "G Minor7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_Aflat_Major7.png",
+        "answer": "Ab Major7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_A_Major7.png",
+        "answer": "A Major7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_Bflat_Major7.png",
+        "answer": "Bb Major7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_B_Major7.png",
+        "answer": "B Major7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_C_Major7.png",
+        "answer": "C Major7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_Dflat_Major7.png",
+        "answer": "Db Major7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_D_Major7.png",
+        "answer": "D Major7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_Eflat_Major7.png",
+        "answer": "Eb Major7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_E_Major7.png",
+        "answer": "E Major7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_F_Major7.png",
+        "answer": "F Major7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_Fsharp_Major7.png",
+        "answer": "F# Major7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_Gflat_Major7.png",
+        "answer": "Gb Major7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_G_Major7.png",
+        "answer": "G Major7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_Aflat_Dim7.png",
+        "answer": "Ab Dim7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_A_Dim7.png",
+        "answer": "A Dim7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_Bflat_Dim7.png",
+        "answer": "Bb Dim7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_B_Dim7.png",
+        "answer": "B Dim7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_C_Dim7.png",
+        "answer": "C Dim7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_Dflat_Dim7.png",
+        "answer": "Db Dim7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_D_Dim7.png",
+        "answer": "D Dim7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_Eflat_Dim7.png",
+        "answer": "Eb Dim7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_E_Dim7.png",
+        "answer": "E Dim7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_F_Dim7.png",
+        "answer": "F Dim7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_Fsharp_Dim7.png",
+        "answer": "F# Dim7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_Gflat_Dim7.png",
+        "answer": "Gb Dim7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_G_Dim7.png",
+        "answer": "G Dim7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_Aflat_HalfDim7.png",
+        "answer": "Ab HalfDim7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_A_HalfDim7.png",
+        "answer": "A HalfDim7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_Bflat_HalfDim7.png",
+        "answer": "Bb HalfDim7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_B_HalfDim7.png",
+        "answer": "B HalfDim7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_C_HalfDim7.png",
+        "answer": "C HalfDim7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_Dflat_HalfDim7.png",
+        "answer": "Db HalfDim7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_D_HalfDim7.png",
+        "answer": "D HalfDim7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_Eflat_HalfDim7.png",
+        "answer": "Eb HalfDim7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_E_HalfDim7.png",
+        "answer": "E HalfDim7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_F_HalfDim7.png",
+        "answer": "F HalfDim7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_Fsharp_HalfDim7.png",
+        "answer": "F# HalfDim7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_Gflat_HalfDim7.png",
+        "answer": "Gb HalfDim7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    },
+    {
+        "question": "Identify the note shown",
+        "image": "images/chords/tenornote_G_HalfDim7.png",
+        "answer": "G HalfDim7",
+        "clef": "tenor",
+        "difficulty": "maestro",
+        "timers": {
+            "bronze": 50,
+            "silver": 40,
+            "gold": 35,
+            "maestro": 30
+        }
+    }
+]
