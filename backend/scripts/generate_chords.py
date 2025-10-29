@@ -44,7 +44,7 @@ for difficulty, clefs in division_clefs.items():
                     safe_note = accidental_map[base_note]
                 else:
                     safe_note = base_note
-                image_file = f"images/chords/{clef}note_{safe_note}_{chord}.png"
+                image_file = f"images/chords/{clef}note_{safe_note}_{chord}.svg"
                 questions.append({
                     "question": "Identify the note shown",
                      "image": image_file,

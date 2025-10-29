@@ -1,7 +1,7 @@
 [
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Aflat_Major_scale.png",
+        "image": "images/scales/treblenote_Aflat_Major_scale.svg",
         "answer": "Ab Major_scale",
         "clef": "treble",
         "difficulty": "bronze",
@@ -14,7 +14,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_A_Major_scale.png",
+        "image": "images/scales/treblenote_A_Major_scale.svg",
         "answer": "A Major_scale",
         "clef": "treble",
         "difficulty": "bronze",
@@ -27,7 +27,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Bflat_Major_scale.png",
+        "image": "images/scales/treblenote_Bflat_Major_scale.svg",
         "answer": "Bb Major_scale",
         "clef": "treble",
         "difficulty": "bronze",
@@ -40,7 +40,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_B_Major_scale.png",
+        "image": "images/scales/treblenote_B_Major_scale.svg",
         "answer": "B Major_scale",
         "clef": "treble",
         "difficulty": "bronze",
@@ -53,7 +53,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_C_Major_scale.png",
+        "image": "images/scales/treblenote_C_Major_scale.svg",
         "answer": "C Major_scale",
         "clef": "treble",
         "difficulty": "bronze",
@@ -66,7 +66,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Dflat_Major_scale.png",
+        "image": "images/scales/treblenote_Dflat_Major_scale.svg",
         "answer": "Db Major_scale",
         "clef": "treble",
         "difficulty": "bronze",
@@ -79,7 +79,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_D_Major_scale.png",
+        "image": "images/scales/treblenote_D_Major_scale.svg",
         "answer": "D Major_scale",
         "clef": "treble",
         "difficulty": "bronze",
@@ -92,7 +92,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Eflat_Major_scale.png",
+        "image": "images/scales/treblenote_Eflat_Major_scale.svg",
         "answer": "Eb Major_scale",
         "clef": "treble",
         "difficulty": "bronze",
@@ -105,7 +105,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_E_Major_scale.png",
+        "image": "images/scales/treblenote_E_Major_scale.svg",
         "answer": "E Major_scale",
         "clef": "treble",
         "difficulty": "bronze",
@@ -118,7 +118,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_F_Major_scale.png",
+        "image": "images/scales/treblenote_F_Major_scale.svg",
         "answer": "F Major_scale",
         "clef": "treble",
         "difficulty": "bronze",
@@ -131,7 +131,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Fsharp_Major_scale.png",
+        "image": "images/scales/treblenote_Fsharp_Major_scale.svg",
         "answer": "F# Major_scale",
         "clef": "treble",
         "difficulty": "bronze",
@@ -144,7 +144,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Gflat_Major_scale.png",
+        "image": "images/scales/treblenote_Gflat_Major_scale.svg",
         "answer": "Gb Major_scale",
         "clef": "treble",
         "difficulty": "bronze",
@@ -157,7 +157,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_G_Major_scale.png",
+        "image": "images/scales/treblenote_G_Major_scale.svg",
         "answer": "G Major_scale",
         "clef": "treble",
         "difficulty": "bronze",
@@ -170,7 +170,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Aflat_Natural_minor.png",
+        "image": "images/scales/treblenote_Aflat_Natural_minor.svg",
         "answer": "Ab Natural_minor",
         "clef": "treble",
         "difficulty": "silver",
@@ -183,7 +183,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_A_Natural_minor.png",
+        "image": "images/scales/treblenote_A_Natural_minor.svg",
         "answer": "A Natural_minor",
         "clef": "treble",
         "difficulty": "silver",
@@ -196,7 +196,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Bflat_Natural_minor.png",
+        "image": "images/scales/treblenote_Bflat_Natural_minor.svg",
         "answer": "Bb Natural_minor",
         "clef": "treble",
         "difficulty": "silver",
@@ -209,7 +209,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_B_Natural_minor.png",
+        "image": "images/scales/treblenote_B_Natural_minor.svg",
         "answer": "B Natural_minor",
         "clef": "treble",
         "difficulty": "silver",
@@ -222,7 +222,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_C_Natural_minor.png",
+        "image": "images/scales/treblenote_C_Natural_minor.svg",
         "answer": "C Natural_minor",
         "clef": "treble",
         "difficulty": "silver",
@@ -235,7 +235,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Dflat_Natural_minor.png",
+        "image": "images/scales/treblenote_Dflat_Natural_minor.svg",
         "answer": "Db Natural_minor",
         "clef": "treble",
         "difficulty": "silver",
@@ -248,7 +248,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_D_Natural_minor.png",
+        "image": "images/scales/treblenote_D_Natural_minor.svg",
         "answer": "D Natural_minor",
         "clef": "treble",
         "difficulty": "silver",
@@ -261,7 +261,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Eflat_Natural_minor.png",
+        "image": "images/scales/treblenote_Eflat_Natural_minor.svg",
         "answer": "Eb Natural_minor",
         "clef": "treble",
         "difficulty": "silver",
@@ -274,7 +274,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_E_Natural_minor.png",
+        "image": "images/scales/treblenote_E_Natural_minor.svg",
         "answer": "E Natural_minor",
         "clef": "treble",
         "difficulty": "silver",
@@ -287,7 +287,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_F_Natural_minor.png",
+        "image": "images/scales/treblenote_F_Natural_minor.svg",
         "answer": "F Natural_minor",
         "clef": "treble",
         "difficulty": "silver",
@@ -300,7 +300,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Fsharp_Natural_minor.png",
+        "image": "images/scales/treblenote_Fsharp_Natural_minor.svg",
         "answer": "F# Natural_minor",
         "clef": "treble",
         "difficulty": "silver",
@@ -313,7 +313,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Gflat_Natural_minor.png",
+        "image": "images/scales/treblenote_Gflat_Natural_minor.svg",
         "answer": "Gb Natural_minor",
         "clef": "treble",
         "difficulty": "silver",
@@ -326,7 +326,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_G_Natural_minor.png",
+        "image": "images/scales/treblenote_G_Natural_minor.svg",
         "answer": "G Natural_minor",
         "clef": "treble",
         "difficulty": "silver",
@@ -339,7 +339,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Aflat_Natural_minor.png",
+        "image": "images/scales/bassnote_Aflat_Natural_minor.svg",
         "answer": "Ab Natural_minor",
         "clef": "bass",
         "difficulty": "silver",
@@ -352,7 +352,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_A_Natural_minor.png",
+        "image": "images/scales/bassnote_A_Natural_minor.svg",
         "answer": "A Natural_minor",
         "clef": "bass",
         "difficulty": "silver",
@@ -365,7 +365,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Bflat_Natural_minor.png",
+        "image": "images/scales/bassnote_Bflat_Natural_minor.svg",
         "answer": "Bb Natural_minor",
         "clef": "bass",
         "difficulty": "silver",
@@ -378,7 +378,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_B_Natural_minor.png",
+        "image": "images/scales/bassnote_B_Natural_minor.svg",
         "answer": "B Natural_minor",
         "clef": "bass",
         "difficulty": "silver",
@@ -391,7 +391,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_C_Natural_minor.png",
+        "image": "images/scales/bassnote_C_Natural_minor.svg",
         "answer": "C Natural_minor",
         "clef": "bass",
         "difficulty": "silver",
@@ -404,7 +404,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Dflat_Natural_minor.png",
+        "image": "images/scales/bassnote_Dflat_Natural_minor.svg",
         "answer": "Db Natural_minor",
         "clef": "bass",
         "difficulty": "silver",
@@ -417,7 +417,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_D_Natural_minor.png",
+        "image": "images/scales/bassnote_D_Natural_minor.svg",
         "answer": "D Natural_minor",
         "clef": "bass",
         "difficulty": "silver",
@@ -430,7 +430,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Eflat_Natural_minor.png",
+        "image": "images/scales/bassnote_Eflat_Natural_minor.svg",
         "answer": "Eb Natural_minor",
         "clef": "bass",
         "difficulty": "silver",
@@ -443,7 +443,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_E_Natural_minor.png",
+        "image": "images/scales/bassnote_E_Natural_minor.svg",
         "answer": "E Natural_minor",
         "clef": "bass",
         "difficulty": "silver",
@@ -456,7 +456,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_F_Natural_minor.png",
+        "image": "images/scales/bassnote_F_Natural_minor.svg",
         "answer": "F Natural_minor",
         "clef": "bass",
         "difficulty": "silver",
@@ -469,7 +469,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Fsharp_Natural_minor.png",
+        "image": "images/scales/bassnote_Fsharp_Natural_minor.svg",
         "answer": "F# Natural_minor",
         "clef": "bass",
         "difficulty": "silver",
@@ -482,7 +482,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Gflat_Natural_minor.png",
+        "image": "images/scales/bassnote_Gflat_Natural_minor.svg",
         "answer": "Gb Natural_minor",
         "clef": "bass",
         "difficulty": "silver",
@@ -495,7 +495,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_G_Natural_minor.png",
+        "image": "images/scales/bassnote_G_Natural_minor.svg",
         "answer": "G Natural_minor",
         "clef": "bass",
         "difficulty": "silver",
@@ -508,7 +508,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Aflat_Melodic_minor.png",
+        "image": "images/scales/treblenote_Aflat_Melodic_minor.svg",
         "answer": "Ab Melodic_minor",
         "clef": "treble",
         "difficulty": "gold",
@@ -521,7 +521,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_A_Melodic_minor.png",
+        "image": "images/scales/treblenote_A_Melodic_minor.svg",
         "answer": "A Melodic_minor",
         "clef": "treble",
         "difficulty": "gold",
@@ -534,7 +534,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Bflat_Melodic_minor.png",
+        "image": "images/scales/treblenote_Bflat_Melodic_minor.svg",
         "answer": "Bb Melodic_minor",
         "clef": "treble",
         "difficulty": "gold",
@@ -547,7 +547,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_B_Melodic_minor.png",
+        "image": "images/scales/treblenote_B_Melodic_minor.svg",
         "answer": "B Melodic_minor",
         "clef": "treble",
         "difficulty": "gold",
@@ -560,7 +560,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_C_Melodic_minor.png",
+        "image": "images/scales/treblenote_C_Melodic_minor.svg",
         "answer": "C Melodic_minor",
         "clef": "treble",
         "difficulty": "gold",
@@ -573,7 +573,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Dflat_Melodic_minor.png",
+        "image": "images/scales/treblenote_Dflat_Melodic_minor.svg",
         "answer": "Db Melodic_minor",
         "clef": "treble",
         "difficulty": "gold",
@@ -586,7 +586,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_D_Melodic_minor.png",
+        "image": "images/scales/treblenote_D_Melodic_minor.svg",
         "answer": "D Melodic_minor",
         "clef": "treble",
         "difficulty": "gold",
@@ -599,7 +599,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Eflat_Melodic_minor.png",
+        "image": "images/scales/treblenote_Eflat_Melodic_minor.svg",
         "answer": "Eb Melodic_minor",
         "clef": "treble",
         "difficulty": "gold",
@@ -612,7 +612,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_E_Melodic_minor.png",
+        "image": "images/scales/treblenote_E_Melodic_minor.svg",
         "answer": "E Melodic_minor",
         "clef": "treble",
         "difficulty": "gold",
@@ -625,7 +625,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_F_Melodic_minor.png",
+        "image": "images/scales/treblenote_F_Melodic_minor.svg",
         "answer": "F Melodic_minor",
         "clef": "treble",
         "difficulty": "gold",
@@ -638,7 +638,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Fsharp_Melodic_minor.png",
+        "image": "images/scales/treblenote_Fsharp_Melodic_minor.svg",
         "answer": "F# Melodic_minor",
         "clef": "treble",
         "difficulty": "gold",
@@ -651,7 +651,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Gflat_Melodic_minor.png",
+        "image": "images/scales/treblenote_Gflat_Melodic_minor.svg",
         "answer": "Gb Melodic_minor",
         "clef": "treble",
         "difficulty": "gold",
@@ -664,7 +664,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_G_Melodic_minor.png",
+        "image": "images/scales/treblenote_G_Melodic_minor.svg",
         "answer": "G Melodic_minor",
         "clef": "treble",
         "difficulty": "gold",
@@ -677,7 +677,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Aflat_Harmonic_minor.png",
+        "image": "images/scales/treblenote_Aflat_Harmonic_minor.svg",
         "answer": "Ab Harmonic_minor",
         "clef": "treble",
         "difficulty": "gold",
@@ -690,7 +690,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_A_Harmonic_minor.png",
+        "image": "images/scales/treblenote_A_Harmonic_minor.svg",
         "answer": "A Harmonic_minor",
         "clef": "treble",
         "difficulty": "gold",
@@ -703,7 +703,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Bflat_Harmonic_minor.png",
+        "image": "images/scales/treblenote_Bflat_Harmonic_minor.svg",
         "answer": "Bb Harmonic_minor",
         "clef": "treble",
         "difficulty": "gold",
@@ -716,7 +716,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_B_Harmonic_minor.png",
+        "image": "images/scales/treblenote_B_Harmonic_minor.svg",
         "answer": "B Harmonic_minor",
         "clef": "treble",
         "difficulty": "gold",
@@ -729,7 +729,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_C_Harmonic_minor.png",
+        "image": "images/scales/treblenote_C_Harmonic_minor.svg",
         "answer": "C Harmonic_minor",
         "clef": "treble",
         "difficulty": "gold",
@@ -742,7 +742,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Dflat_Harmonic_minor.png",
+        "image": "images/scales/treblenote_Dflat_Harmonic_minor.svg",
         "answer": "Db Harmonic_minor",
         "clef": "treble",
         "difficulty": "gold",
@@ -755,7 +755,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_D_Harmonic_minor.png",
+        "image": "images/scales/treblenote_D_Harmonic_minor.svg",
         "answer": "D Harmonic_minor",
         "clef": "treble",
         "difficulty": "gold",
@@ -768,7 +768,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Eflat_Harmonic_minor.png",
+        "image": "images/scales/treblenote_Eflat_Harmonic_minor.svg",
         "answer": "Eb Harmonic_minor",
         "clef": "treble",
         "difficulty": "gold",
@@ -781,7 +781,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_E_Harmonic_minor.png",
+        "image": "images/scales/treblenote_E_Harmonic_minor.svg",
         "answer": "E Harmonic_minor",
         "clef": "treble",
         "difficulty": "gold",
@@ -794,7 +794,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_F_Harmonic_minor.png",
+        "image": "images/scales/treblenote_F_Harmonic_minor.svg",
         "answer": "F Harmonic_minor",
         "clef": "treble",
         "difficulty": "gold",
@@ -807,7 +807,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Fsharp_Harmonic_minor.png",
+        "image": "images/scales/treblenote_Fsharp_Harmonic_minor.svg",
         "answer": "F# Harmonic_minor",
         "clef": "treble",
         "difficulty": "gold",
@@ -820,7 +820,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Gflat_Harmonic_minor.png",
+        "image": "images/scales/treblenote_Gflat_Harmonic_minor.svg",
         "answer": "Gb Harmonic_minor",
         "clef": "treble",
         "difficulty": "gold",
@@ -833,7 +833,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_G_Harmonic_minor.png",
+        "image": "images/scales/treblenote_G_Harmonic_minor.svg",
         "answer": "G Harmonic_minor",
         "clef": "treble",
         "difficulty": "gold",
@@ -846,7 +846,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Aflat_Melodic_minor.png",
+        "image": "images/scales/bassnote_Aflat_Melodic_minor.svg",
         "answer": "Ab Melodic_minor",
         "clef": "bass",
         "difficulty": "gold",
@@ -859,7 +859,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_A_Melodic_minor.png",
+        "image": "images/scales/bassnote_A_Melodic_minor.svg",
         "answer": "A Melodic_minor",
         "clef": "bass",
         "difficulty": "gold",
@@ -872,7 +872,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Bflat_Melodic_minor.png",
+        "image": "images/scales/bassnote_Bflat_Melodic_minor.svg",
         "answer": "Bb Melodic_minor",
         "clef": "bass",
         "difficulty": "gold",
@@ -885,7 +885,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_B_Melodic_minor.png",
+        "image": "images/scales/bassnote_B_Melodic_minor.svg",
         "answer": "B Melodic_minor",
         "clef": "bass",
         "difficulty": "gold",
@@ -898,7 +898,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_C_Melodic_minor.png",
+        "image": "images/scales/bassnote_C_Melodic_minor.svg",
         "answer": "C Melodic_minor",
         "clef": "bass",
         "difficulty": "gold",
@@ -911,7 +911,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Dflat_Melodic_minor.png",
+        "image": "images/scales/bassnote_Dflat_Melodic_minor.svg",
         "answer": "Db Melodic_minor",
         "clef": "bass",
         "difficulty": "gold",
@@ -924,7 +924,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_D_Melodic_minor.png",
+        "image": "images/scales/bassnote_D_Melodic_minor.svg",
         "answer": "D Melodic_minor",
         "clef": "bass",
         "difficulty": "gold",
@@ -937,7 +937,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Eflat_Melodic_minor.png",
+        "image": "images/scales/bassnote_Eflat_Melodic_minor.svg",
         "answer": "Eb Melodic_minor",
         "clef": "bass",
         "difficulty": "gold",
@@ -950,7 +950,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_E_Melodic_minor.png",
+        "image": "images/scales/bassnote_E_Melodic_minor.svg",
         "answer": "E Melodic_minor",
         "clef": "bass",
         "difficulty": "gold",
@@ -963,7 +963,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_F_Melodic_minor.png",
+        "image": "images/scales/bassnote_F_Melodic_minor.svg",
         "answer": "F Melodic_minor",
         "clef": "bass",
         "difficulty": "gold",
@@ -976,7 +976,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Fsharp_Melodic_minor.png",
+        "image": "images/scales/bassnote_Fsharp_Melodic_minor.svg",
         "answer": "F# Melodic_minor",
         "clef": "bass",
         "difficulty": "gold",
@@ -989,7 +989,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Gflat_Melodic_minor.png",
+        "image": "images/scales/bassnote_Gflat_Melodic_minor.svg",
         "answer": "Gb Melodic_minor",
         "clef": "bass",
         "difficulty": "gold",
@@ -1002,7 +1002,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_G_Melodic_minor.png",
+        "image": "images/scales/bassnote_G_Melodic_minor.svg",
         "answer": "G Melodic_minor",
         "clef": "bass",
         "difficulty": "gold",
@@ -1015,7 +1015,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Aflat_Harmonic_minor.png",
+        "image": "images/scales/bassnote_Aflat_Harmonic_minor.svg",
         "answer": "Ab Harmonic_minor",
         "clef": "bass",
         "difficulty": "gold",
@@ -1028,7 +1028,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_A_Harmonic_minor.png",
+        "image": "images/scales/bassnote_A_Harmonic_minor.svg",
         "answer": "A Harmonic_minor",
         "clef": "bass",
         "difficulty": "gold",
@@ -1041,7 +1041,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Bflat_Harmonic_minor.png",
+        "image": "images/scales/bassnote_Bflat_Harmonic_minor.svg",
         "answer": "Bb Harmonic_minor",
         "clef": "bass",
         "difficulty": "gold",
@@ -1054,7 +1054,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_B_Harmonic_minor.png",
+        "image": "images/scales/bassnote_B_Harmonic_minor.svg",
         "answer": "B Harmonic_minor",
         "clef": "bass",
         "difficulty": "gold",
@@ -1067,7 +1067,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_C_Harmonic_minor.png",
+        "image": "images/scales/bassnote_C_Harmonic_minor.svg",
         "answer": "C Harmonic_minor",
         "clef": "bass",
         "difficulty": "gold",
@@ -1080,7 +1080,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Dflat_Harmonic_minor.png",
+        "image": "images/scales/bassnote_Dflat_Harmonic_minor.svg",
         "answer": "Db Harmonic_minor",
         "clef": "bass",
         "difficulty": "gold",
@@ -1093,7 +1093,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_D_Harmonic_minor.png",
+        "image": "images/scales/bassnote_D_Harmonic_minor.svg",
         "answer": "D Harmonic_minor",
         "clef": "bass",
         "difficulty": "gold",
@@ -1106,7 +1106,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Eflat_Harmonic_minor.png",
+        "image": "images/scales/bassnote_Eflat_Harmonic_minor.svg",
         "answer": "Eb Harmonic_minor",
         "clef": "bass",
         "difficulty": "gold",
@@ -1119,7 +1119,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_E_Harmonic_minor.png",
+        "image": "images/scales/bassnote_E_Harmonic_minor.svg",
         "answer": "E Harmonic_minor",
         "clef": "bass",
         "difficulty": "gold",
@@ -1132,7 +1132,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_F_Harmonic_minor.png",
+        "image": "images/scales/bassnote_F_Harmonic_minor.svg",
         "answer": "F Harmonic_minor",
         "clef": "bass",
         "difficulty": "gold",
@@ -1145,7 +1145,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Fsharp_Harmonic_minor.png",
+        "image": "images/scales/bassnote_Fsharp_Harmonic_minor.svg",
         "answer": "F# Harmonic_minor",
         "clef": "bass",
         "difficulty": "gold",
@@ -1158,7 +1158,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Gflat_Harmonic_minor.png",
+        "image": "images/scales/bassnote_Gflat_Harmonic_minor.svg",
         "answer": "Gb Harmonic_minor",
         "clef": "bass",
         "difficulty": "gold",
@@ -1171,7 +1171,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_G_Harmonic_minor.png",
+        "image": "images/scales/bassnote_G_Harmonic_minor.svg",
         "answer": "G Harmonic_minor",
         "clef": "bass",
         "difficulty": "gold",
@@ -1184,7 +1184,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Aflat_Mixolydian.png",
+        "image": "images/scales/treblenote_Aflat_Mixolydian.svg",
         "answer": "Ab Mixolydian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1197,7 +1197,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_A_Mixolydian.png",
+        "image": "images/scales/treblenote_A_Mixolydian.svg",
         "answer": "A Mixolydian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1210,7 +1210,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Bflat_Mixolydian.png",
+        "image": "images/scales/treblenote_Bflat_Mixolydian.svg",
         "answer": "Bb Mixolydian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1223,7 +1223,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_B_Mixolydian.png",
+        "image": "images/scales/treblenote_B_Mixolydian.svg",
         "answer": "B Mixolydian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1236,7 +1236,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_C_Mixolydian.png",
+        "image": "images/scales/treblenote_C_Mixolydian.svg",
         "answer": "C Mixolydian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1249,7 +1249,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Dflat_Mixolydian.png",
+        "image": "images/scales/treblenote_Dflat_Mixolydian.svg",
         "answer": "Db Mixolydian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1262,7 +1262,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_D_Mixolydian.png",
+        "image": "images/scales/treblenote_D_Mixolydian.svg",
         "answer": "D Mixolydian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1275,7 +1275,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Eflat_Mixolydian.png",
+        "image": "images/scales/treblenote_Eflat_Mixolydian.svg",
         "answer": "Eb Mixolydian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1288,7 +1288,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_E_Mixolydian.png",
+        "image": "images/scales/treblenote_E_Mixolydian.svg",
         "answer": "E Mixolydian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1301,7 +1301,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_F_Mixolydian.png",
+        "image": "images/scales/treblenote_F_Mixolydian.svg",
         "answer": "F Mixolydian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1314,7 +1314,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Fsharp_Mixolydian.png",
+        "image": "images/scales/treblenote_Fsharp_Mixolydian.svg",
         "answer": "F# Mixolydian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1327,7 +1327,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Gflat_Mixolydian.png",
+        "image": "images/scales/treblenote_Gflat_Mixolydian.svg",
         "answer": "Gb Mixolydian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1340,7 +1340,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_G_Mixolydian.png",
+        "image": "images/scales/treblenote_G_Mixolydian.svg",
         "answer": "G Mixolydian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1353,7 +1353,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Aflat_Lydian.png",
+        "image": "images/scales/treblenote_Aflat_Lydian.svg",
         "answer": "Ab Lydian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1366,7 +1366,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_A_Lydian.png",
+        "image": "images/scales/treblenote_A_Lydian.svg",
         "answer": "A Lydian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1379,7 +1379,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Bflat_Lydian.png",
+        "image": "images/scales/treblenote_Bflat_Lydian.svg",
         "answer": "Bb Lydian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1392,7 +1392,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_B_Lydian.png",
+        "image": "images/scales/treblenote_B_Lydian.svg",
         "answer": "B Lydian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1405,7 +1405,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_C_Lydian.png",
+        "image": "images/scales/treblenote_C_Lydian.svg",
         "answer": "C Lydian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1418,7 +1418,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Dflat_Lydian.png",
+        "image": "images/scales/treblenote_Dflat_Lydian.svg",
         "answer": "Db Lydian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1431,7 +1431,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_D_Lydian.png",
+        "image": "images/scales/treblenote_D_Lydian.svg",
         "answer": "D Lydian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1444,7 +1444,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Eflat_Lydian.png",
+        "image": "images/scales/treblenote_Eflat_Lydian.svg",
         "answer": "Eb Lydian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1457,7 +1457,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_E_Lydian.png",
+        "image": "images/scales/treblenote_E_Lydian.svg",
         "answer": "E Lydian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1470,7 +1470,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_F_Lydian.png",
+        "image": "images/scales/treblenote_F_Lydian.svg",
         "answer": "F Lydian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1483,7 +1483,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Fsharp_Lydian.png",
+        "image": "images/scales/treblenote_Fsharp_Lydian.svg",
         "answer": "F# Lydian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1496,7 +1496,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Gflat_Lydian.png",
+        "image": "images/scales/treblenote_Gflat_Lydian.svg",
         "answer": "Gb Lydian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1509,7 +1509,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_G_Lydian.png",
+        "image": "images/scales/treblenote_G_Lydian.svg",
         "answer": "G Lydian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1522,7 +1522,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Aflat_Dorian.png",
+        "image": "images/scales/treblenote_Aflat_Dorian.svg",
         "answer": "Ab Dorian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1535,7 +1535,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_A_Dorian.png",
+        "image": "images/scales/treblenote_A_Dorian.svg",
         "answer": "A Dorian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1548,7 +1548,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Bflat_Dorian.png",
+        "image": "images/scales/treblenote_Bflat_Dorian.svg",
         "answer": "Bb Dorian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1561,7 +1561,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_B_Dorian.png",
+        "image": "images/scales/treblenote_B_Dorian.svg",
         "answer": "B Dorian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1574,7 +1574,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_C_Dorian.png",
+        "image": "images/scales/treblenote_C_Dorian.svg",
         "answer": "C Dorian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1587,7 +1587,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Dflat_Dorian.png",
+        "image": "images/scales/treblenote_Dflat_Dorian.svg",
         "answer": "Db Dorian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1600,7 +1600,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_D_Dorian.png",
+        "image": "images/scales/treblenote_D_Dorian.svg",
         "answer": "D Dorian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1613,7 +1613,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Eflat_Dorian.png",
+        "image": "images/scales/treblenote_Eflat_Dorian.svg",
         "answer": "Eb Dorian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1626,7 +1626,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_E_Dorian.png",
+        "image": "images/scales/treblenote_E_Dorian.svg",
         "answer": "E Dorian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1639,7 +1639,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_F_Dorian.png",
+        "image": "images/scales/treblenote_F_Dorian.svg",
         "answer": "F Dorian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1652,7 +1652,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Fsharp_Dorian.png",
+        "image": "images/scales/treblenote_Fsharp_Dorian.svg",
         "answer": "F# Dorian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1665,7 +1665,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Gflat_Dorian.png",
+        "image": "images/scales/treblenote_Gflat_Dorian.svg",
         "answer": "Gb Dorian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1678,7 +1678,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_G_Dorian.png",
+        "image": "images/scales/treblenote_G_Dorian.svg",
         "answer": "G Dorian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1691,7 +1691,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Aflat_Phrygian.png",
+        "image": "images/scales/treblenote_Aflat_Phrygian.svg",
         "answer": "Ab Phrygian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1704,7 +1704,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_A_Phrygian.png",
+        "image": "images/scales/treblenote_A_Phrygian.svg",
         "answer": "A Phrygian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1717,7 +1717,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Bflat_Phrygian.png",
+        "image": "images/scales/treblenote_Bflat_Phrygian.svg",
         "answer": "Bb Phrygian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1730,7 +1730,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_B_Phrygian.png",
+        "image": "images/scales/treblenote_B_Phrygian.svg",
         "answer": "B Phrygian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1743,7 +1743,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_C_Phrygian.png",
+        "image": "images/scales/treblenote_C_Phrygian.svg",
         "answer": "C Phrygian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1756,7 +1756,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Dflat_Phrygian.png",
+        "image": "images/scales/treblenote_Dflat_Phrygian.svg",
         "answer": "Db Phrygian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1769,7 +1769,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_D_Phrygian.png",
+        "image": "images/scales/treblenote_D_Phrygian.svg",
         "answer": "D Phrygian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1782,7 +1782,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Eflat_Phrygian.png",
+        "image": "images/scales/treblenote_Eflat_Phrygian.svg",
         "answer": "Eb Phrygian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1795,7 +1795,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_E_Phrygian.png",
+        "image": "images/scales/treblenote_E_Phrygian.svg",
         "answer": "E Phrygian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1808,7 +1808,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_F_Phrygian.png",
+        "image": "images/scales/treblenote_F_Phrygian.svg",
         "answer": "F Phrygian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1821,7 +1821,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Fsharp_Phrygian.png",
+        "image": "images/scales/treblenote_Fsharp_Phrygian.svg",
         "answer": "F# Phrygian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1834,7 +1834,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Gflat_Phrygian.png",
+        "image": "images/scales/treblenote_Gflat_Phrygian.svg",
         "answer": "Gb Phrygian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1847,7 +1847,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_G_Phrygian.png",
+        "image": "images/scales/treblenote_G_Phrygian.svg",
         "answer": "G Phrygian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1860,7 +1860,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Aflat_Locrian.png",
+        "image": "images/scales/treblenote_Aflat_Locrian.svg",
         "answer": "Ab Locrian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1873,7 +1873,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_A_Locrian.png",
+        "image": "images/scales/treblenote_A_Locrian.svg",
         "answer": "A Locrian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1886,7 +1886,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Bflat_Locrian.png",
+        "image": "images/scales/treblenote_Bflat_Locrian.svg",
         "answer": "Bb Locrian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1899,7 +1899,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_B_Locrian.png",
+        "image": "images/scales/treblenote_B_Locrian.svg",
         "answer": "B Locrian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1912,7 +1912,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_C_Locrian.png",
+        "image": "images/scales/treblenote_C_Locrian.svg",
         "answer": "C Locrian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1925,7 +1925,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Dflat_Locrian.png",
+        "image": "images/scales/treblenote_Dflat_Locrian.svg",
         "answer": "Db Locrian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1938,7 +1938,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_D_Locrian.png",
+        "image": "images/scales/treblenote_D_Locrian.svg",
         "answer": "D Locrian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1951,7 +1951,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Eflat_Locrian.png",
+        "image": "images/scales/treblenote_Eflat_Locrian.svg",
         "answer": "Eb Locrian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1964,7 +1964,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_E_Locrian.png",
+        "image": "images/scales/treblenote_E_Locrian.svg",
         "answer": "E Locrian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1977,7 +1977,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_F_Locrian.png",
+        "image": "images/scales/treblenote_F_Locrian.svg",
         "answer": "F Locrian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -1990,7 +1990,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Fsharp_Locrian.png",
+        "image": "images/scales/treblenote_Fsharp_Locrian.svg",
         "answer": "F# Locrian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -2003,7 +2003,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_Gflat_Locrian.png",
+        "image": "images/scales/treblenote_Gflat_Locrian.svg",
         "answer": "Gb Locrian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -2016,7 +2016,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/treblenote_G_Locrian.png",
+        "image": "images/scales/treblenote_G_Locrian.svg",
         "answer": "G Locrian",
         "clef": "treble",
         "difficulty": "maestro",
@@ -2029,7 +2029,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Aflat_Mixolydian.png",
+        "image": "images/scales/bassnote_Aflat_Mixolydian.svg",
         "answer": "Ab Mixolydian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2042,7 +2042,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_A_Mixolydian.png",
+        "image": "images/scales/bassnote_A_Mixolydian.svg",
         "answer": "A Mixolydian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2055,7 +2055,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Bflat_Mixolydian.png",
+        "image": "images/scales/bassnote_Bflat_Mixolydian.svg",
         "answer": "Bb Mixolydian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2068,7 +2068,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_B_Mixolydian.png",
+        "image": "images/scales/bassnote_B_Mixolydian.svg",
         "answer": "B Mixolydian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2081,7 +2081,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_C_Mixolydian.png",
+        "image": "images/scales/bassnote_C_Mixolydian.svg",
         "answer": "C Mixolydian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2094,7 +2094,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Dflat_Mixolydian.png",
+        "image": "images/scales/bassnote_Dflat_Mixolydian.svg",
         "answer": "Db Mixolydian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2107,7 +2107,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_D_Mixolydian.png",
+        "image": "images/scales/bassnote_D_Mixolydian.svg",
         "answer": "D Mixolydian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2120,7 +2120,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Eflat_Mixolydian.png",
+        "image": "images/scales/bassnote_Eflat_Mixolydian.svg",
         "answer": "Eb Mixolydian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2133,7 +2133,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_E_Mixolydian.png",
+        "image": "images/scales/bassnote_E_Mixolydian.svg",
         "answer": "E Mixolydian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2146,7 +2146,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_F_Mixolydian.png",
+        "image": "images/scales/bassnote_F_Mixolydian.svg",
         "answer": "F Mixolydian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2159,7 +2159,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Fsharp_Mixolydian.png",
+        "image": "images/scales/bassnote_Fsharp_Mixolydian.svg",
         "answer": "F# Mixolydian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2172,7 +2172,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Gflat_Mixolydian.png",
+        "image": "images/scales/bassnote_Gflat_Mixolydian.svg",
         "answer": "Gb Mixolydian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2185,7 +2185,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_G_Mixolydian.png",
+        "image": "images/scales/bassnote_G_Mixolydian.svg",
         "answer": "G Mixolydian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2198,7 +2198,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Aflat_Lydian.png",
+        "image": "images/scales/bassnote_Aflat_Lydian.svg",
         "answer": "Ab Lydian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2211,7 +2211,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_A_Lydian.png",
+        "image": "images/scales/bassnote_A_Lydian.svg",
         "answer": "A Lydian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2224,7 +2224,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Bflat_Lydian.png",
+        "image": "images/scales/bassnote_Bflat_Lydian.svg",
         "answer": "Bb Lydian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2237,7 +2237,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_B_Lydian.png",
+        "image": "images/scales/bassnote_B_Lydian.svg",
         "answer": "B Lydian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2250,7 +2250,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_C_Lydian.png",
+        "image": "images/scales/bassnote_C_Lydian.svg",
         "answer": "C Lydian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2263,7 +2263,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Dflat_Lydian.png",
+        "image": "images/scales/bassnote_Dflat_Lydian.svg",
         "answer": "Db Lydian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2276,7 +2276,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_D_Lydian.png",
+        "image": "images/scales/bassnote_D_Lydian.svg",
         "answer": "D Lydian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2289,7 +2289,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Eflat_Lydian.png",
+        "image": "images/scales/bassnote_Eflat_Lydian.svg",
         "answer": "Eb Lydian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2302,7 +2302,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_E_Lydian.png",
+        "image": "images/scales/bassnote_E_Lydian.svg",
         "answer": "E Lydian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2315,7 +2315,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_F_Lydian.png",
+        "image": "images/scales/bassnote_F_Lydian.svg",
         "answer": "F Lydian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2328,7 +2328,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Fsharp_Lydian.png",
+        "image": "images/scales/bassnote_Fsharp_Lydian.svg",
         "answer": "F# Lydian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2341,7 +2341,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Gflat_Lydian.png",
+        "image": "images/scales/bassnote_Gflat_Lydian.svg",
         "answer": "Gb Lydian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2354,7 +2354,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_G_Lydian.png",
+        "image": "images/scales/bassnote_G_Lydian.svg",
         "answer": "G Lydian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2367,7 +2367,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Aflat_Dorian.png",
+        "image": "images/scales/bassnote_Aflat_Dorian.svg",
         "answer": "Ab Dorian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2380,7 +2380,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_A_Dorian.png",
+        "image": "images/scales/bassnote_A_Dorian.svg",
         "answer": "A Dorian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2393,7 +2393,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Bflat_Dorian.png",
+        "image": "images/scales/bassnote_Bflat_Dorian.svg",
         "answer": "Bb Dorian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2406,7 +2406,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_B_Dorian.png",
+        "image": "images/scales/bassnote_B_Dorian.svg",
         "answer": "B Dorian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2419,7 +2419,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_C_Dorian.png",
+        "image": "images/scales/bassnote_C_Dorian.svg",
         "answer": "C Dorian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2432,7 +2432,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Dflat_Dorian.png",
+        "image": "images/scales/bassnote_Dflat_Dorian.svg",
         "answer": "Db Dorian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2445,7 +2445,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_D_Dorian.png",
+        "image": "images/scales/bassnote_D_Dorian.svg",
         "answer": "D Dorian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2458,7 +2458,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Eflat_Dorian.png",
+        "image": "images/scales/bassnote_Eflat_Dorian.svg",
         "answer": "Eb Dorian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2471,7 +2471,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_E_Dorian.png",
+        "image": "images/scales/bassnote_E_Dorian.svg",
         "answer": "E Dorian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2484,7 +2484,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_F_Dorian.png",
+        "image": "images/scales/bassnote_F_Dorian.svg",
         "answer": "F Dorian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2497,7 +2497,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Fsharp_Dorian.png",
+        "image": "images/scales/bassnote_Fsharp_Dorian.svg",
         "answer": "F# Dorian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2510,7 +2510,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Gflat_Dorian.png",
+        "image": "images/scales/bassnote_Gflat_Dorian.svg",
         "answer": "Gb Dorian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2523,7 +2523,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_G_Dorian.png",
+        "image": "images/scales/bassnote_G_Dorian.svg",
         "answer": "G Dorian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2536,7 +2536,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Aflat_Phrygian.png",
+        "image": "images/scales/bassnote_Aflat_Phrygian.svg",
         "answer": "Ab Phrygian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2549,7 +2549,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_A_Phrygian.png",
+        "image": "images/scales/bassnote_A_Phrygian.svg",
         "answer": "A Phrygian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2562,7 +2562,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Bflat_Phrygian.png",
+        "image": "images/scales/bassnote_Bflat_Phrygian.svg",
         "answer": "Bb Phrygian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2575,7 +2575,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_B_Phrygian.png",
+        "image": "images/scales/bassnote_B_Phrygian.svg",
         "answer": "B Phrygian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2588,7 +2588,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_C_Phrygian.png",
+        "image": "images/scales/bassnote_C_Phrygian.svg",
         "answer": "C Phrygian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2601,7 +2601,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Dflat_Phrygian.png",
+        "image": "images/scales/bassnote_Dflat_Phrygian.svg",
         "answer": "Db Phrygian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2614,7 +2614,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_D_Phrygian.png",
+        "image": "images/scales/bassnote_D_Phrygian.svg",
         "answer": "D Phrygian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2627,7 +2627,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Eflat_Phrygian.png",
+        "image": "images/scales/bassnote_Eflat_Phrygian.svg",
         "answer": "Eb Phrygian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2640,7 +2640,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_E_Phrygian.png",
+        "image": "images/scales/bassnote_E_Phrygian.svg",
         "answer": "E Phrygian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2653,7 +2653,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_F_Phrygian.png",
+        "image": "images/scales/bassnote_F_Phrygian.svg",
         "answer": "F Phrygian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2666,7 +2666,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Fsharp_Phrygian.png",
+        "image": "images/scales/bassnote_Fsharp_Phrygian.svg",
         "answer": "F# Phrygian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2679,7 +2679,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Gflat_Phrygian.png",
+        "image": "images/scales/bassnote_Gflat_Phrygian.svg",
         "answer": "Gb Phrygian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2692,7 +2692,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_G_Phrygian.png",
+        "image": "images/scales/bassnote_G_Phrygian.svg",
         "answer": "G Phrygian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2705,7 +2705,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Aflat_Locrian.png",
+        "image": "images/scales/bassnote_Aflat_Locrian.svg",
         "answer": "Ab Locrian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2718,7 +2718,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_A_Locrian.png",
+        "image": "images/scales/bassnote_A_Locrian.svg",
         "answer": "A Locrian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2731,7 +2731,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Bflat_Locrian.png",
+        "image": "images/scales/bassnote_Bflat_Locrian.svg",
         "answer": "Bb Locrian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2744,7 +2744,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_B_Locrian.png",
+        "image": "images/scales/bassnote_B_Locrian.svg",
         "answer": "B Locrian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2757,7 +2757,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_C_Locrian.png",
+        "image": "images/scales/bassnote_C_Locrian.svg",
         "answer": "C Locrian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2770,7 +2770,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Dflat_Locrian.png",
+        "image": "images/scales/bassnote_Dflat_Locrian.svg",
         "answer": "Db Locrian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2783,7 +2783,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_D_Locrian.png",
+        "image": "images/scales/bassnote_D_Locrian.svg",
         "answer": "D Locrian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2796,7 +2796,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Eflat_Locrian.png",
+        "image": "images/scales/bassnote_Eflat_Locrian.svg",
         "answer": "Eb Locrian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2809,7 +2809,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_E_Locrian.png",
+        "image": "images/scales/bassnote_E_Locrian.svg",
         "answer": "E Locrian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2822,7 +2822,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_F_Locrian.png",
+        "image": "images/scales/bassnote_F_Locrian.svg",
         "answer": "F Locrian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2835,7 +2835,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Fsharp_Locrian.png",
+        "image": "images/scales/bassnote_Fsharp_Locrian.svg",
         "answer": "F# Locrian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2848,7 +2848,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_Gflat_Locrian.png",
+        "image": "images/scales/bassnote_Gflat_Locrian.svg",
         "answer": "Gb Locrian",
         "clef": "bass",
         "difficulty": "maestro",
@@ -2861,7 +2861,7 @@
     },
     {
         "question": "Identify the note shown",
-        "image": "images/scales/bassnote_G_Locrian.png",
+        "image": "images/scales/bassnote_G_Locrian.svg",
         "answer": "G Locrian",
         "clef": "bass",
         "difficulty": "maestro",

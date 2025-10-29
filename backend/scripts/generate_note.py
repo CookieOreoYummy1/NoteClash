@@ -34,7 +34,7 @@ for difficulty, clefs in division_clefs.items():
             for accidental in accidentals if difficulty != "bronze" else [""]:
                 note_name = base_note[0] + accidental
                 filename_accidental = accidental_map[accidental]
-                image_file = f"images/notes/{clef}note_{base_note[0].lower()}{filename_accidental}.png"
+                image_file = f"images/notes/{clef}note_{base_note[0].lower()}{filename_accidental}.svg"
                 questions.append({
                     "question": "Identify the note shown",
                     "image": image_file,
