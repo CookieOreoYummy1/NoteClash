@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="210.00mm" height="297.00mm" viewBox="0.0000 -0.0000 119.5016 169.0094">
+<style type="text/css">
+<![CDATA[
+tspan { white-space: pre; }
+]]>
+</style>
+<g transform="translate(14.2264, 12.7053)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="12.2223" y2="0"/>
+</g>
+<g transform="translate(14.2264, 11.7053)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="12.2223" y2="0"/>
+</g>
+<g transform="translate(14.2264, 10.7053)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="12.2223" y2="0"/>
+</g>
+<g transform="translate(14.2264, 9.7053)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="12.2223" y2="0"/>
+</g>
+<g transform="translate(14.2264, 8.7053)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="12.2223" y2="0"/>
+</g>
+<g transform="translate(5.6906, 5.7053)">
+<rect x="17.6308" y="-0.1000" width="1.8053" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 6.7053)">
+<rect x="17.4798" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 7.7053)">
+<rect x="17.4798" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(22.3464, 5.7053)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(23.5614, 10.7053)">
+<rect x="-0.0650" y="-4.8139" width="0.1300" height="4.8139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(19.2264, 10.7053)">
+<path transform="scale(0.0040, -0.0040)" d="M359 27c-49 0 -75 42 -75 75c0 38 27 77 72 77c4 0 9 0 14 -1c-28 37 -72 59 -120 59c-106 0 -113 -73 -113 -186v-51v-51c0 -113 7 -187 113 -187c80 0 139 70 158 151c2 7 7 10 12 10c6 0 13 -4 13 -12c0 -94 -105 -174 -183 -174c-68 0 -137 21 -184 70
+c-49 51 -66 122 -66 193s17 142 66 193c47 49 116 69 184 69c87 0 160 -63 175 -149c1 -5 1 -10 1 -14c0 -40 -30 -72 -67 -72z" fill="currentColor"/>
+</g>
+<g transform="translate(15.0264, 9.7053)">
+<path transform="scale(0.0040, -0.0040)" d="M557 -125c0 28 23 51 51 51s51 -23 51 -51s-23 -51 -51 -51s-51 23 -51 51zM557 125c0 28 23 51 51 51s51 -23 51 -51s-23 -51 -51 -51s-51 23 -51 51zM232 263c172 0 293 -88 293 -251c0 -263 -263 -414 -516 -521c-3 -3 -6 -4 -9 -4c-7 0 -13 6 -13 13c0 3 1 6 4 9
+c202 118 412 265 412 493c0 120 -63 235 -171 235c-74 0 -129 -54 -154 -126c11 5 22 8 34 8c55 0 100 -45 100 -100c0 -58 -44 -106 -100 -106c-60 0 -112 47 -112 106c0 133 102 244 232 244z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/Victor%20Van/Documents/music-theory-app/backend/scripts/images/notes/bassnote_gflat:12:16:17">
+<g transform="translate(23.4964, 5.7053)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(34.5701, 165.1202)">
+<a xlink:href="https://lilypond.org/">
+<rect x="0.0000" y="-0.4748" width="50.3614" height="2.0024" fill="none" stroke="none" stroke-width="0.0"/>
+</a>
+</g>
+<g transform="translate(34.5701, 165.1202)">
+<text font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>Music engraving by LilyPond 2.24.4—www.lilypond.org</tspan>
+</text>
+</g>
+</svg>

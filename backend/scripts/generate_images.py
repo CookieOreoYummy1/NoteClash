@@ -72,7 +72,7 @@ def generate_note():
             s.append(note.Note(n))
             filename_note = accidentals.get(n, n).lower()
             filename = f"images/notes/{clef_name.lower()}note_{filename_note}"
-            s.write('lily.png', fp=filename)
+            s.write('lily.svg', fp=filename)
             print(f"Generated {filename}")
 
 def generate_chord():
@@ -113,7 +113,7 @@ def generate_chord():
                     filename = f"images/chords/{clef_name}note_{filename_note}_{ctypes}"
 
                     try:
-                        s.write("lily.png", fp=filename)
+                        s.write("lily.svg", fp=filename)
                         print(f"Generated {filename}")
                     except Exception as e:
                         print(f"Error generating {filename}: {e}")
@@ -154,11 +154,10 @@ def generate_scale():
 
                     filename_note = accidentals.get(n, n)
                     filename = f"images/scales/{clef_name}note_{filename_note}_{scale_type}"
-                    s.write("lily.png", fp=filename)
+                    s.write("lily.svg", fp=filename)
                     print(f"Generated {filename}")
 
 
-
-generate_scale()
-generate_chord()
 generate_note()
+generate_note()
+generate_scale()
