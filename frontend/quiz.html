@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>NoteClash - Quiz</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <div class="quiz-container">
+            <h1 id="mode-title">Insert variable title here later</h1>
+
+            <div id="question-container">
+                <image id="question-image" src="" alt="Musical Theory Question">
+            </div>
+                
+             <div class="answer-buttons">
+                <button class="answer-btn" onclick="checkAnswer(0)">Answer 1</button>
+                <button class="answer-btn" onclick="checkAnswer(1)">Answer 2</button>
+                 <button class="answer-btn" onclick="checkAnswer(2)">Answer 3</button>
+                <button class="answer-btn" onclick="checkAnswer(3)">Answer 4</button>
+            </div>
+
+            <div class="current-info">
+                <p>Question <span id="current-question">1</span> of <span id="total-questions">15</span></p>
+                <p>Time Remaining: <span id="timer">0</span></p>
+                <p>Score <span id="score">0/15</span></p>
+            </div>
+                
+        </div>
+        <script src="quiz.js"></script>
+    </body>
+</html>
