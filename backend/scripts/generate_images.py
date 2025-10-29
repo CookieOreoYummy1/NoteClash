@@ -159,5 +159,5 @@ def generate_scale():
 
 
 generate_note()
-generate_note()
+generate_chord()
 generate_scale()
