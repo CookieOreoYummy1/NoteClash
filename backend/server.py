@@ -106,6 +106,17 @@ def submit():
         user_entry['total_time'] += time_taken
         user_entry['time_taken'] = user_entry['total_time'] / user_entry['sessions']
         user_entry['total_rr'] += rr
+
+        #Divisions based on total RR
+        if user_entry['total_rr'] >= 800:
+            user_entry['difficulty'] = 'maestro'
+        elif user_entry['total_rr'] >= 600:
+            user_entry['difficulty'] = 'gold'
+        elif user_entry['total_rr'] >= 400:
+            user_entry['difficulty'] = 'silver'
+        else:
+            user_entry['difficulty'] = 'bronze'
+        
     else:
         leaderboard.append({
             "user": user,
@@ -120,7 +131,8 @@ def submit():
 
     with open(leaderboard_file, 'w', encoding="utf-8") as f:
         json.dump(leaderboard, f, indent=4)
-    return jsonify({"message": "Score submitted successfully"})
+        
+    return jsonify({"message": "Score submitted"})
 
 #GET route for leaderboard
 @app.route("/leaderboard")
@@ -135,17 +147,6 @@ def leaderboard():
 # Sorts by RR descending
     leaderboard.sort(key=lambda x: x.get('total_rr', 0), reverse=True)
     leaderboard = leaderboard[:10]
-
-    #Divisions
-    for entry in leaderboard:
-        if entry['total_rr'] >= 800:
-            entry['difficulty'] = 'maestro'
-        elif entry['total_rr'] >= 600:
-            entry['difficulty'] = 'gold'
-        elif entry['total_rr'] >= 400:
-            entry['difficulty'] = 'silver'
-        else:
-            entry['difficulty'] = 'bronze'
 
     with open(leaderboard_file, 'w', encoding="utf-8") as f:
         json.dump(leaderboard, f, indent=4)
