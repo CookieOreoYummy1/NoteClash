@@ -249,7 +249,7 @@ buttons.forEach(btn => {
     
     const timeTaken = Math.round((Date.now() - startTime) / 1000);
     const accuracy = Math.round((score / questions.length) * 100);
-    const rr = Math.round(accuracy * 25 / (timeTaken + 1));
+    const rr = Math.round(accuracy * 60 / (timeTaken + 1));
     
     document.getElementById('final-accuracy').textContent = `${accuracy}%`;
     document.getElementById('final-time').textContent = `${timeTaken}s`;
@@ -268,7 +268,7 @@ function handleTimeout() {
     const timeTaken = timer_durations[currentMode][currentDifficulty];
     const questionsAnswered = currentQuestion;
     const accuracy = questionsAnswered > 0 ? Math.round((score / questionsAnswered) * 100) : 0;
-    const rr = Math.round(accuracy * 25 / (timeTaken + 1));
+    const rr = Math.round(accuracy * 60 / (timeTaken + 1));
     
     document.getElementById('timeout-questions').textContent = `${questionsAnswered}/${questions.length}`;
     document.getElementById('timeout-accuracy').textContent = `${accuracy}%`;

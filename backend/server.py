@@ -90,7 +90,7 @@ def submit():
     if time_taken < 0 or accuracy < 0 or accuracy > 100:
         return jsonify({"error": "Invalid values"}), 400
     
-    rr = accuracy * 25 / (time_taken + 1) 
+    rr = accuracy * 60 / (time_taken + 1) 
 
 
     leaderboard_file = os.path.join(DATA_FOLDER, 'leaderboard.json')
@@ -115,11 +115,11 @@ def submit():
         user_entry['total_rr'] += rr
 
         #Divisions based on total RR
-        if user_entry['total_rr'] >= 800:
+        if user_entry['total_rr'] >= 20000:
             user_entry['difficulty'] = 'maestro'
-        elif user_entry['total_rr'] >= 600:
+        elif user_entry['total_rr'] >= 12000:
             user_entry['difficulty'] = 'gold'
-        elif user_entry['total_rr'] >= 400:
+        elif user_entry['total_rr'] >= 5000:
             user_entry['difficulty'] = 'silver'
         else:
             user_entry['difficulty'] = 'bronze'
