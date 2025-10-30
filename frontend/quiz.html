@@ -4,30 +4,77 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>NoteClash - Quiz</title>
-        <link rel="stylesheet" href="styles.css">
+        <link rel="stylesheet" href="css/styles.css">
     </head>
     <body>
         <div class="quiz-container">
-            <h1 id="mode-title">Insert variable title here later</h1>
+            <h1 class="quiz-title" id="mode-title">Loading...</h1>
+            
+            <div class="stats-bar">
+                <div class="stat-left">
+                    <span class="stat-label">Time</span>
+                    <span id="timer" class="stat-value">---</span>  <!--Placeholder for JS insert-->
+                </div>
 
-            <div id="question-container">
-                <image id="question-image" src="" alt="Musical Theory Question">
+                <div class="stat-center">
+                    <span class="stat-label">Question</span>
+                    <span id="question-number" class="stat-value">
+                        <span id="current-question">---</span>/<span id="total-questions">15</span>
+                    </span>  
+                </div>
+
+                <div class="stat-right">
+                    <span class="stat-label">Score</span>
+                    <span id="score" class="stat-value">---</span>
+                </div>
+            </div>
+
+            <div id="question-display">
+                <img id="question-image" src="" alt="Musical Theory Question">
             </div>
                 
-             <div class="answer-buttons">
-                <button class="answer-btn" onclick="checkAnswer(0)">Answer 1</button>
-                <button class="answer-btn" onclick="checkAnswer(1)">Answer 2</button>
-                 <button class="answer-btn" onclick="checkAnswer(2)">Answer 3</button>
-                <button class="answer-btn" onclick="checkAnswer(3)">Answer 4</button>
-            </div>
-
-            <div class="current-info">
-                <p>Question <span id="current-question">1</span> of <span id="total-questions">15</span></p>
-                <p>Time Remaining: <span id="timer">0</span></p>
-                <p>Score <span id="score">0/15</span></p>
-            </div>
-                
+             <div class="answer-grid">
+                <button  type="button" class="answer-btn" onclick="checkAnswer(0)" data-index="0">Answer 1</button>
+                <button  type="button" class="answer-btn" onclick="checkAnswer(1)" data-index="1">Answer 2</button>
+                <button  type="button" class="answer-btn" onclick="checkAnswer(2)" data-index="2">Answer 3</button>
+                <button  type="button" class="answer-btn" onclick="checkAnswer(3)" data-index="3">Answer 4</button>
+            </div>       
         </div>
-        <script src="quiz.js"></script>
+
+        <!--Completion/Out of Time Modals-->
+        <div id="completion-modal" class="modal-hidden">
+            <div class="modal-content">
+                <h2>You're Done!</h2>
+                <div class="stats">
+                    <p>Accuracy: <span id="final-accuracy">---</span></p>
+                    <p>Time Taken: <span id="final-time">---</span></p>
+                    <p class="rr-score">RR: <span id="final-rr">---</span></p>
+                </div>
+                <div class="modal-buttons">
+                    <button onclick="window.location.href='leaderboard.html'">View Leaderboard</button>
+                    <button onclick="window.location.href='selection.html'">Play Again</button>
+                    <button onclick="window.location.href='index.html'">Return Home</button>
+                </div>
+            </div>
+        </div>
+
+        <div id="timeout-modal" class="modal-hidden">
+            <div class="modal-content">
+                <h2>Time's Up!</h2>
+                <div class="stats">
+                    <p>Questions Answered: <span id="timeout-questions">---</span></p>
+                    <p>Accuracy: <span id="timeout-accuracy">---</span></p>
+                    <p class="rr-score">RR: <span id="timeout-rr">---</span></p>
+                </div>
+                <p class="timeout-message">Remember to keep practicing to get better!</p>
+                <div class="modal-buttons">
+                    <button onclick="window.location.href='leaderboard.html'">View Leaderboard</button>
+                    <button onclick="window.location.href='selection.html'">Play Again</button>
+                    <button onclick="window.location.href='index.html'">Return Home</button>
+                </div>
+            </div>
+        </div>
+
+        <script src="js/quiz.js"></script>
     </body>
 </html>

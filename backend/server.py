@@ -75,6 +75,13 @@ def submit():
     accuracy = data.get('accuracy')
     time_taken = data.get('time_taken')
 
+   #---- Type safetyyyy :)) ----
+    try:
+        accuracy = float(accuracy)
+        time_taken = float(time_taken)
+    except (TypeError, ValueError):
+        return jsonify({"error": "Invalid values for accuracy or time_taken"}), 400
+
     if user is None or accuracy is None or time_taken is None:
         return jsonify({"error": "Missing fields in data"}), 400
 
@@ -83,7 +90,7 @@ def submit():
     if time_taken < 0 or accuracy < 0 or accuracy > 100:
         return jsonify({"error": "Invalid values"}), 400
     
-    rr = accuracy * 1000 / (time_taken + 1) 
+    rr = accuracy * 25 / (time_taken + 1) 
 
 
     leaderboard_file = os.path.join(DATA_FOLDER, 'leaderboard.json')
@@ -133,7 +140,6 @@ def submit():
         json.dump(leaderboard, f, indent=4)
 
     return jsonify({"message": "Score submitted"})
-
 #GET route for leaderboard
 @app.route("/leaderboard")
 def leaderboard():
@@ -150,6 +156,10 @@ def leaderboard():
         
     return jsonify(leaderboard)
     
+
+@app.route("/images/<path:filename>")
+def serve_image(filename):
+    return send_from_directory("images", filename)
 
 if __name__ == '__main__':
     app.run(debug=True)
