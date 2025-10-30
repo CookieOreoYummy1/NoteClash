@@ -4,30 +4,37 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>NoteClash</title>
-        <link rel="stylesheet" href="styles.css">
+        <link rel="stylesheet" href="css/styles.css">
     </head>
     <body>
         <div class="start-container">
             <h1><span class="title">NoteClash</span></h1>
 
-                <div class="piano-logo"> 
-                    <div class="keyboard">
-                        <div class="white key"></div>
-                        <div class="white key"></div>
-                        <div class="black key"></div>
-                        <div class="white key"></div>
-                        <div class="black key"></div>
-                        <div class="white key"></div>
-                        <div class="white key"></div>
-                        <div class="black key"></div>
-                        <div class="white key"></div>
+                <div class="logo"> 
+                    <div class="music-note1">
+                        <div class="note-head"></div>
+                        <div class="note-stem"></div>
+                        <div class="sword">
+                            <div class="handle"></div>
+                            <div class="guard"></div>
+                            <div class="blade"></div>
+                        </div>
+                    </div>
+                    <div class="music-note2">
+                        <div class="note-head"></div>
+                        <div class="note-stem"></div>
+                        <div class="sword">
+                            <div class="handle"></div>
+                            <div class="guard"></div>
+                            <div class="blade"></div>
+                        </div>
                     </div>
                 </div>
 
             <p><span id="subtext">Test your musical knowledge against history's greats!</span></p>
 
             <div class="button-container">
-                <button onclick="window.location.href='selection.html'">Start</button>
+                <button id="start-btn" onclick="window.location.href='selection.html'">Start</button>
             </div>
         </div>
     </body>
