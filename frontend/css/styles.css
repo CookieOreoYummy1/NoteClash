@@ -64,6 +64,7 @@
 --transition-fast: 150ms ease;
 --transition-medium: 300ms ease;
 --transition-slow: 500ms ease;
+--transition-standard: 400ms cubic-bezier(0.4, 0, 0.2, 1);
 
 /* Font Sizes */
 --font-xs: 0.75rem;
@@ -149,8 +150,10 @@ body {
     align-items: center;
     gap: var(--spacing-md);
     margin: var(--spacing-2xl) 0;
+    margin-top: var(--spacing-3xl);
     position: relative;
     height: 150px;
+    transform: scale(1.15);
 }
 
 .music-note1, .music-note2 {
@@ -285,7 +288,7 @@ body {
     border-radius: var(--radius-full);
     cursor: pointer;
     box-shadow: var(--shadow-lg);
-    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    transition: all var(--transition-standard);
     text-transform: uppercase;
     letter-spacing: 1px;
 }
@@ -302,3 +305,71 @@ body {
     background: white;
     box-shadow: 0 8px 20px rgba(124, 58, 237, 0.4);
 }
+/*******END HOME PAGE STYLES ******/
+
+/******SELECTION PAGE STYLES ******/
+.selection-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: var(--spacing-2xl);
+    text-align: center;
+}
+
+.selection-container h2 {
+    font-size: var(--font-4xl);
+    filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3));
+    margin-bottom: var(--spacing-2xl);
+}
+
+.mode-buttons {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: var(--spacing-2xl);
+    background: white;
+    border-radius: var(--radius-xl);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: -var(--radius-lg);
+    padding-left: var(--spacing-3xl);
+    padding-right: var(--spacing-3xl);
+    padding-top: var(--spacing-2xl);
+    padding-bottom: var(--spacing-2xl);
+    transition: all var(--transition-standard);
+}
+
+.mode-buttons button {
+    padding: 1rem 2rem;
+    font-size: var(--font-lg);
+    font-weight: var(--font-semibold);
+    color: var(--text-light);
+    background: var(--primary);
+    border: none;
+    border-radius: var(--radius-md);
+    cursor: pointer;
+    box-shadow: var(--shadow-md);
+    transition: background 0.3s ease, transform 0.2s ease;
+}
+
+.mode-buttons button:hover {
+    transform: translateY(-4px) scale(1.02);
+    box-shadow: 0 8px 24px rgba(124, 58, 237, 0.4);
+    background: var(--purple-300);
+}
+
+.mode-buttons button:active {
+    transform: translateY(-2px) scale(1.01);
+    background: white;
+}
+
+.mode-buttons button:last-child {
+    background: white;
+    color: var(--primary-darker);
+    border: 2px solid var(--primary);
+    margin-top: var(--spacing-lg);
+}
+
+.mode-buttons button:last-child:hover {
+    background: var(--purple-500);
+    transform: translateY(-4px) scale(1.02);
+}
+
+/******END SELECTION PAGE STYLES ******/
