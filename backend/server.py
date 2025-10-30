@@ -90,15 +90,16 @@ def submit():
     if time_taken < 0 or accuracy < 0 or accuracy > 100:
         return jsonify({"error": "Invalid values"}), 400
     
-    rr = accuracy * 60 / (time_taken + 1) 
+    rr = accuracy * 100 / (time_taken + 1) 
 
 
     leaderboard_file = os.path.join(DATA_FOLDER, 'leaderboard.json')
     try:
         with open(leaderboard_file, 'r', encoding="utf-8") as f:
             leaderboard = json.load(f)
-    except FileNotFoundError:
-            leaderboard = []
+    except (FileNotFoundError, json.JSONDecodeError) as e:
+        print(f"Error loading leaderboard: {e}")
+        leaderboard = []
     
     user_entry = None
     for entry in leaderboard:

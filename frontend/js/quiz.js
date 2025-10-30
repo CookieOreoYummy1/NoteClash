@@ -1,3 +1,7 @@
+window.addEventListener('beforeunload', (e) => {
+    console.trace('PAGE UNLOADING - Stack trace above');
+});
+
 let questions = [];
 let currentQuestion = 0;
 let score = 0;
@@ -9,22 +13,22 @@ let currentDifficulty;
 
 const timer_durations = {
     note_reading: {
-        bronze: 195,
+        bronze: 175,
         silver: 150,
         gold:  105,
         maestro: 90,
      },
     scales: {
-        bronze: 525,
-        silver: 450,
-        gold: 375,
-        maestro: 225,
+        bronze: 200,
+        silver: 150,
+        gold: 100,
+        maestro: 75,
     },
     chord_analysis: {
-        bronze: 750,
-        silver: 600,
-        gold: 525,
-        maestro: 450,
+        bronze: 200,
+        silver: 150,
+        gold: 120,
+        maestro: 100,
     },
 }
 
@@ -162,9 +166,12 @@ function startTimer() {
         document.getElementById('timer').textContent = timeRemaining;
         
         if (timeRemaining <= 0) {
-            quizFinished = true;
+            console.log('=== TIMER HIT ZERO ===');
+            console.log('About to set quizFinished and call handleTimeout');
             clearInterval(timerInterval);
+            console.log('Calling handleTimeout now...');
             handleTimeout();
+            console.log('handleTimeout call completed');
         }
     }, 1000);
 }
@@ -188,6 +195,9 @@ function displayQuestion() {
 }
 
 function checkAnswer(buttonIndex) {
+    console.log('=== checkAnswer called, buttonIndex:', buttonIndex);
+    console.log('currentQuestion:', currentQuestion, 'questions.length:', questions.length);
+    
     const q = questions[currentQuestion];
     const buttons = document.querySelectorAll('.answer-btn');
     const selectedAnswer = q.options[buttonIndex];
@@ -211,13 +221,17 @@ function checkAnswer(buttonIndex) {
         });
     }
 
-    setTimeout(async () => {
+
+     setTimeout(() => {
         currentQuestion++;
+        console.log('After increment, currentQuestion:', currentQuestion);
         
         if (currentQuestion < questions.length) {
+            console.log('Moving to next question');
             displayQuestion();
         } else {
-             handleCompletion();
+            console.log('Quiz complete, calling handleCompletion');
+            handleCompletion();
         }
     }, 1500);
 }
@@ -231,14 +245,27 @@ buttons.forEach(btn => {
 
 
  function handleCompletion() {
-    if (quizFinished) return;
+    console.log('=== handleCompletion START ===');
+    console.log('quizFinished:', quizFinished);
+    
+    if (quizFinished) {
+        console.log('Already finished, returning');
+        return;
+    }
+    
     quizFinished = true;
+    console.log('Set quizFinished to true');
+    
     clearInterval(timerInterval);
+    console.log('Timer cleared');
 
     let username = localStorage.getItem('user');
+    console.log('Username from storage:', username);
 
     if (!username) {
+        console.log('Prompting for username...');
         username = prompt('Enter a name for the leaderboard:');
+        console.log('Username entered:', username);
         if (username && username.trim()) {
             username = username.trim();
             localStorage.setItem('user', username);
@@ -251,32 +278,80 @@ buttons.forEach(btn => {
     const accuracy = Math.round((score / questions.length) * 100);
     const rr = Math.round(accuracy * 60 / (timeTaken + 1));
     
+    console.log('Stats calculated:', { timeTaken, accuracy, rr });
+    
     document.getElementById('final-accuracy').textContent = `${accuracy}%`;
     document.getElementById('final-time').textContent = `${timeTaken}s`;
     document.getElementById('final-rr').textContent = rr;
+    console.log('Modal stats updated');
     
-    submitScore(accuracy, timeTaken);
+    submitScore(username, accuracy, timeTaken);
+    console.log('submitScore called');
+    
+    document.querySelector('.quiz-container').style.display = 'none';
+    console.log('Quiz container hidden');
+    
     document.getElementById('completion-modal').classList.remove('modal-hidden');
+    console.log('Modal shown');
+    console.log('=== handleCompletion END ===');
+
+//test if modal stays after 5 seconds
+    setTimeout(() => {
+    console.log('5 seconds after modal shown, still here?');
+}, 5000);
 }
 
 
 // Ran out of time
 function handleTimeout() {
-    if (quizFinished) return;
+    console.log('=== INSIDE handleTimeout ===');
+    console.log('quizFinished at start:', quizFinished);
+    
+    if (quizFinished) {
+        console.log('quizFinished is true, returning early');
+        return;
+    }
+    
+    console.log('Setting quizFinished to true');
     quizFinished = true;
-    clearInterval
+    clearInterval(timerInterval);
+
+    let username = localStorage.getItem('user');
+    console.log('Username from storage:', username);
+
+    if (!username) {
+        console.log('No username, prompting...');
+        username = prompt('Enter a name for the leaderboard:');
+        console.log('Username entered:', username);
+        if (username && username.trim()) {
+            username = username.trim();
+            localStorage.setItem('user', username);
+        } else {
+            username = 'Anonymous';
+        }
+    }
+    console.log('Final username:', username);
+
     const timeTaken = timer_durations[currentMode][currentDifficulty];
     const questionsAnswered = currentQuestion;
     const accuracy = questionsAnswered > 0 ? Math.round((score / questionsAnswered) * 100) : 0;
-    const rr = Math.round(accuracy * 60 / (timeTaken + 1));
+    const rr = Math.round(accuracy * 100 / (timeTaken + 1));
     
+    console.log('Stats calculated:', { timeTaken, questionsAnswered, accuracy, rr });
+    
+    console.log('Updating modal elements...');
     document.getElementById('timeout-questions').textContent = `${questionsAnswered}/${questions.length}`;
     document.getElementById('timeout-accuracy').textContent = `${accuracy}%`;
     document.getElementById('timeout-rr').textContent = rr;
+    console.log('Modal elements updated');
 
-  submitScore(accuracy, timeTaken);
+    console.log('Submitting score...');
+    submitScore(username, accuracy, timeTaken);
     
+    console.log('Showing timeout modal...');
     document.getElementById('timeout-modal').classList.remove('modal-hidden');
+    document.querySelector('.quiz-container').style.display = 'none';
+    console.log('=== handleTimeout COMPLETE ===');
 }
 
 //IT FINALLY WORKED YESSSS!!!!!
